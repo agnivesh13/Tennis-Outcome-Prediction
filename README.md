@@ -67,10 +67,10 @@ Open Tennis_Outcome_Prediction_Model.ipynb in Jupyter Lab/Notebook and run the c
 
 ## 📈 Future Work
 
-Integrate live match updates with Elo re-computation
+Integrate live match updates with Elo re-computation.
 
-Add betting odds as features
+Add betting odds as features.
 
-Explore deep learning models (RNNs, LSTMs)
+Explore deep learning models (RNNs, LSTMs).
 
-Build interactive dashboard for match predictions
+Build interactive dashboard for match predictions.
