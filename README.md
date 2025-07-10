@@ -55,3 +55,20 @@ This project aims to forecast match winners in ATP tennis using a combination of
    ```bash
    git clone https://github.com/agnivesh13/tennis-outcome-prediction.git
    cd tennis-outcome-prediction
+
+Install dependencies:
+
+```bash
+pip install -r requirements.txt
+```
+Run the notebook:
+Open Tennis_Outcome_Prediction_Model.ipynb in Jupyter Lab/Notebook and run the cells sequentially.
+
+📈 Future Work
+Integrate live match updates with Elo re-computation
+
+Add betting odds as features
+
+Explore deep learning models (RNNs, LSTMs)
+
+Build interactive dashboard for match predictions
