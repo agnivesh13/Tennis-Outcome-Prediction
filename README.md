@@ -65,7 +65,7 @@ pip install -r requirements.txt
 
 Open Tennis_Outcome_Prediction_Model.ipynb in Jupyter Lab/Notebook and run the cells sequentially.
 
-##📈 Future Work
+## 📈 Future Work
 
 Integrate live match updates with Elo re-computation
 
