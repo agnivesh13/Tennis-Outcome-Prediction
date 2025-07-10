@@ -1,0 +1,3244 @@
+player_id,player_name,elo_rating
+206173,Jannik Sinner,2187.78
+104925,Novak Djokovic,2092.12
+207989,Carlos Alcaraz,2027.24
+104417,Robin Soderling,2025.27
+103819,Roger Federer,2017.25
+100644,Alexander Zverev,1974.12
+105223,Juan Martin del Potro,1932.98
+126203,Taylor Fritz,1932.9
+106401,Nick Kyrgios,1915.49
+106421,Daniil Medvedev,1912.43
+102158,Patrick Rafter,1903.91
+104745,Rafael Nadal,1885.33
+105777,Grigor Dimitrov,1875.08
+200282,Alex De Minaur,1872.58
+207733,Jack Draper,1872.23
+101736,Andre Agassi,1858.3
+208029,Holger Rune,1853.88
+104053,Andy Roddick,1847.11
+101948,Pete Sampras,1842.78
+200624,Sebastian Korda,1840.65
+126774,Stefanos Tsitsipas,1830.25
+126205,Tommy Paul,1830.16
+128034,Hubert Hurkacz,1827.04
+126610,Matteo Berrettini,1826.31
+111575,Karen Khachanov,1813.72
+200005,Ugo Humbert,1806.45
+104339,Mario Ancic,1786.9
+103900,David Nalbandian,1776.3
+207518,Lorenzo Musetti,1775.57
+210097,Ben Shelton,1774.51
+101414,Boris Becker,1773.42
+103888,Mardy Fish,1772.41
+102765,Nicolas Escude,1771.27
+105683,Milos Raonic,1769.44
+207830,Tomas Machac,1767.43
+200615,Alexei Popyrin,1764.55
+104792,Gael Monfils,1763.49
+208103,Jiri Lehecka,1760.41
+134770,Casper Ruud,1760.16
+105526,Jan Lennard Struff,1758.53
+111442,Jordan Thompson,1757.47
+104607,Tomas Berdych,1756.6
+209950,Arthur Fils,1756.46
+101222,Stefan Edberg,1756.37
+105453,Kei Nishikori,1755.3
+126207,Frances Tiafoe,1753.37
+200000,Felix Auger Aliassime,1747.67
+126094,Andrey Rublev,1747.37
+105238,Alexandr Dolgopolov,1738.53
+207925,Flavio Cobolli,1736.92
+133430,Denis Shapovalov,1736.51
+134868,Tallon Griekspoor,1732.57
+111202,Hyeon Chung,1727.14
+101990,Richard Krajicek,1725.31
+103285,Radek Stepanek,1723.47
+101529,Michael Stich,1720.68
+202103,Francisco Cerundolo,1719.69
+202385,Jenson Brooksby,1718.99
+103507,Juan Carlos Ferrero,1715.13
+105138,Roberto Bautista Agut,1710.84
+103602,Fernando Gonzalez,1705.8
+103498,Marat Safin,1704.87
+103344,Ivan Ljubicic,1704.1
+105807,Pablo Carreno Busta,1703.18
+103970,David Ferrer,1701.89
+105676,David Goffin,1699.76
+206909,Brandon Nakashima,1698.37
+106423,Thanasi Kokkinakis,1697.31
+102701,Marcelo Rios,1694.14
+101793,Jim Courier,1691.17
+105668,Jerzy Janowicz,1687.66
+106218,Marcos Giron,1687.3
+208286,Matteo Arnaldi,1686.99
+210506,Alex Michelsen,1686.57
+103017,Nicolas Kiefer,1686.52
+104338,Juan Monaco,1685.49
+104026,Joachim Johansson,1681.26
+105227,Marin Cilic,1680.53
+103898,Julien Benneteau,1679.51
+111815,Cameron Norrie,1678.71
+104597,Nicolas Almagro,1678.43
+102882,Mark Philippoussis,1677.85
+210150,Jakub Mensik,1677.68
+200325,Emil Ruusuvuori,1675.02
+144684,Alex Molcan,1673.17
+104871,Jeremy Chardy,1671.76
+102338,Yevgeny Kafelnikov,1669.44
+102450,Tim Henman,1669.21
+208659,Giovanni Mpetshi Perricard,1664.88
+101320,Magnus Gustafsson,1660.43
+103781,Jurgen Melzer,1660.05
+144869,Tomas Martin Etcheverry,1660.0
+126128,Roman Safiullin,1659.67
+105870,Yannick Hanfmann,1658.09
+103917,Nicolas Mahut,1657.38
+106415,Yoshihito Nishioka,1657.23
+102562,Jiri Novak,1657.2
+126214,Alejandro Tabilo,1655.69
+103566,Michael Llodra,1653.48
+124187,Reilly Opelka,1652.63
+200221,Alejandro Davidovich Fokina,1651.58
+144707,Mikael Ymer,1648.5
+102863,Takao Suzuki,1647.91
+104731,Kevin Anderson,1647.8
+102419,Christophe Van Garsse,1647.06
+209098,Hamad Medjedovic,1645.06
+126846,Aleksandar Vukic,1644.7
+200175,Miomir Kecmanovic,1644.43
+105916,Marton Fucsovics,1642.5
+101774,Todd Martin,1640.81
+136440,Dominik Koepfer,1639.93
+106426,Cristian Garin,1639.38
+105577,Vasek Pospisil,1638.55
+102563,Thomas Johansson,1638.37
+101962,Younes El Aynaoui,1638.34
+122298,Botic Van De Zandschulp,1638.29
+126239,Arthur Rinderknech,1638.26
+102344,Karol Kucera,1638.19
+106148,Roberto Carballes Baena,1637.91
+105656,Marcelo Arevalo,1637.86
+103720,Lleyton Hewitt,1637.64
+103264,Mariano Puerta,1637.58
+101727,Jason Stoltenberg,1637.29
+104076,Jose Acasuso,1633.22
+102257,Greg Rusedski,1633.2
+104571,Marcos Baghdatis,1632.08
+101723,Magnus Larsson,1632.06
+101084,Jakob Hlasek,1631.76
+102148,Fabrice Santoro,1631.25
+103758,Taylor Dent,1630.29
+132686,Nuno Borges,1630.03
+111581,Michael Mmoh,1629.93
+103828,Jean Julien Rojer,1629.59
+127339,Borna Gojo,1627.92
+102025,Mikael Tillstrom,1627.01
+105575,Ricardas Berankis,1626.64
+102644,Franco Squillari,1626.46
+102854,Sjeng Schalken,1626.38
+105583,Dusan Lajovic,1625.72
+111190,Zhizhen Zhang,1625.66
+103401,Jan Hernych,1625.34
+105723,Andrey Kuznetsov,1624.86
+102887,Ramon Delgado,1624.78
+104547,Horacio Zeballos,1624.62
+132283,Lorenzo Sonego,1624.57
+111797,Nicolas Jarry,1624.09
+102233,Leander Paes,1624.01
+103786,Nikolay Davydenko,1623.14
+206681,Fabian Marozsan,1622.87
+104545,John Isner,1622.68
+104468,Gilles Simon,1622.51
+104620,Simone Bolelli,1622.43
+202104,Sebastian Baez,1620.91
+122330,Alexander Bublik,1620.49
+103813,Jarkko Nieminen,1620.27
+103484,James Blake,1619.4
+102271,Hicham Arazi,1617.67
+101965,Wayne Ferreira,1616.44
+101434,Petr Korda,1615.86
+104523,Frederico Gil,1615.54
+102286,Wayne Black,1615.51
+102959,Marko Tkalec,1614.78
+211663,Joao Fonseca,1614.78
+103600,Mohammad Ghareeb,1614.17
+209992,Juncheng Shang,1613.71
+101897,Fernando Meligeni,1613.56
+104527,Stan Wawrinka,1612.93
+104918,Andy Murray,1612.77
+104180,Gilles Muller,1611.47
+111460,Quentin Halys,1610.79
+104542,Jo-Wilfried Tsonga,1610.78
+103598,Xavier Malisse,1610.38
+111513,Laslo Djere,1609.86
+111577,Jared Donaldson,1609.38
+101611,Cedric Pioline,1609.21
+106331,Christopher Oconnell,1609.12
+102845,Carlos Moya,1608.69
+103387,Paradorn Srichaphan,1608.42
+102610,Albert Costa,1608.26
+101885,Wayne Arthurs,1607.48
+208502,Dominic Stricker,1607.27
+102456,Felix Mantilla,1607.03
+125802,Ilya Ivashka,1606.01
+104976,Ryan Sweeting,1605.59
+126127,Benjamin Bonzi,1604.91
+207352,Bu Yunchaokete,1604.8
+102446,Andrei Medvedev,1604.44
+105985,Darian King,1603.98
+105357,John Millman,1602.59
+207686,Alexander Shevchenko,1602.37
+104332,Philipp Petzschner,1601.73
+200267,Zizou Bergs,1601.57
+102110,Daniel Nestor,1601.08
+103163,Tommy Haas,1600.85
+111456,Mackenzie Mcdonald,1600.62
+106378,Kyle Edmund,1600.33
+101991,Mauricio Hadad,1600.13
+205734,Thiago Seyboth Wild,1599.9
+102259,Jerome Golmard,1599.69
+104898,Robin Haase,1598.77
+106432,Borna Coric,1598.74
+103325,Wesley Moodie,1598.55
+103581,Flavio Saretta,1598.35
+105732,Pierre Hugues Herbert,1598.35
+105992,Ryan Harrison,1596.88
+100955,Yahiya Doumbia,1596.68
+104273,Edouard Roger-Vasselin,1596.12
+208014,Rinky Hijikata,1595.94
+104259,Philipp Kohlschreiber,1595.76
+200059,Yibing Wu,1595.1
+103656,Albert Montanes,1594.85
+106058,Jack Sock,1594.21
+102703,Hyung Taik Lee,1593.7
+111794,Kamil Majchrzak,1592.46
+103812,Victor Hanescu,1591.33
+126952,Soon Woo Kwon,1590.93
+101404,Thomas Muster,1589.45
+106175,Ricardo Rodriguez,1589.27
+105936,Filip Krajinovic,1589.27
+108532,Worapol Thongkamcho,1588.0
+104926,Fabio Fognini,1587.88
+101613,Malivai Washington,1587.7
+144895,Corentin Moutet,1587.34
+103789,Irakli Labadze,1586.72
+106234,Aslan Karatsev,1586.58
+106298,Lucas Pouille,1586.35
+103504,Febi Widhiyanto,1585.92
+104327,Steve Darcis,1585.58
+104897,Matthias Bachinger,1584.83
+106329,Thiago Monteiro,1584.57
+104534,Dudi Sela,1584.34
+102369,Julien Boutter,1583.86
+200436,Zsombor Piros,1583.71
+102035,Jonas Bjorkman,1583.53
+101964,Goran Ivanisevic,1582.29
+103193,Peter Wessels,1581.66
+102179,Antony Dupuis,1580.7
+102401,Scott Draper,1579.99
+124116,Sebastian Ofner,1579.51
+124186,Alexandre Muller,1579.46
+101191,Richey Reneberg,1579.44
+103990,Tommy Robredo,1579.24
+102029,Filip Dewulf,1579.19
+106071,Bernard Tomic,1579.17
+200384,Hugo Gaston,1579.16
+105173,Adrian Mannarino,1578.96
+103824,Orest Tereshchuk,1578.63
+101318,Javier Frana,1578.14
+102107,Jan Frode Andersen,1577.77
+103096,Arnaud Clement,1577.59
+103752,Simon Greul,1576.96
+103171,Raemon Sluiter,1576.68
+104586,Lukas Rosol,1576.48
+133297,Yosuke Watanuki,1576.39
+102839,Nicolas Lapentti,1576.27
+106078,Egor Gerasimov,1576.11
+102740,Francisco Rodriguez,1576.1
+105464,Christopher Rungkat,1575.9
+104395,Marcel Felder,1575.62
+102521,Hendrik Dreekmann,1575.32
+104460,Dustin Brown,1574.37
+104471,Ivan Dodig,1574.05
+100656,Ivan Lendl,1573.6
+103428,Juan Ignacio Chela,1572.4
+105379,Aljaz Bedene,1572.38
+105449,Steve Johnson,1572.35
+103084,Guillermo Canas,1572.34
+106210,Jiri Vesely,1572.24
+103612,Alexey Kedryuk,1572.17
+144750,Lloyd Harris,1572.12
+200303,Pavel Kotov,1571.86
+104025,Amer Delic,1571.81
+104068,Robby Ginepri,1571.21
+104499,Jimmy Wang,1571.12
+133835,Gijs Brouwer,1570.87
+103151,Mariano Zabaleta,1570.85
+126845,Max Purcell,1569.51
+207608,Timofey Skatov,1569.06
+102905,Stefan Koubek,1568.84
+102202,Kenneth Carlsen,1568.8
+105373,Martin Klizan,1568.74
+102642,Cyril Saulnier,1568.32
+105051,Matthew Ebden,1568.3
+104813,Grega Zemlja,1568.06
+104386,Janko Tipsarevic,1567.85
+105023,Sam Querrey,1567.74
+105385,Donald Young,1567.71
+104719,Marcel Granollers,1567.62
+102358,Thomas Enqvist,1567.33
+126646,Tim Van Rijthoven,1567.16
+106233,Dominic Thiem,1566.88
+105550,Guido Pella,1566.83
+104735,Tobias Kamke,1566.8
+103451,Bjorn Phau,1566.59
+104631,Harshana Godamanna,1566.46
+101601,Brett Steven,1565.9
+101884,Frank Ofori,1565.19
+103808,Potito Starace,1565.1
+209070,Arthur Cazaux,1564.71
+103337,Ben Qiang Zhu,1564.28
+106186,Jason Kubler,1563.95
+111153,Christopher Eubanks,1563.86
+209113,Gabriel Diallo,1563.39
+103632,Luis Horna,1562.97
+210530,Learner Tien,1562.73
+106109,Alex Bolt,1562.58
+105946,Liang Chi Huang,1562.37
+101647,Byron Black,1562.13
+105657,Marius Copil,1561.43
+104233,Frederik Nielsen,1561.02
+102834,Paul Goldstein,1560.91
+104604,Ruben Gonzales,1560.85
+102162,Chris Woodruff,1560.85
+102556,Claude Ngoran,1560.53
+104098,Dmitry Tursunov,1560.18
+105790,Yong Kyu Lim,1560.18
+133975,Benjamin Hassan,1560.14
+105079,Ivan Sergeyev,1559.96
+102796,Magnus Norman,1559.79
+104655,Pablo Cuevas,1559.71
+102928,Hee Seok Chung,1559.48
+104724,Eduardo Schwank,1559.19
+106296,Gregoire Barrere,1559.17
+105217,Thiemo De Bakker,1559.12
+103694,Olivier Rochus,1558.59
+103176,David Sanchez,1558.57
+131934,Andrea Vavassori,1557.96
+105255,Bassam Beidas,1557.92
+101717,Diego Nargiso,1557.83
+123795,Altug Celikbilek,1557.8
+102277,Bing Chao Lin,1557.67
+103909,Guillermo Coria,1557.62
+104978,Daniel Brands,1556.43
+105649,Cedrik Marcel Stebe,1556.25
+104965,Pavol Cervenak,1555.89
+101235,Paul Haarhuis,1555.87
+101776,Sandon Stolle,1555.79
+103166,Vladimir Voltchkov,1555.75
+106281,Liam Broady,1554.78
+103066,Mark Nielsen,1554.57
+101062,Mats Wilander,1554.1
+105558,Guillaume Rufin,1553.84
+101733,Jan Siemerink,1553.66
+101820,Marc Rosset,1553.43
+101651,Owen Casey,1552.73
+102227,Sargis Sargsian,1552.45
+105881,Matthew Barton,1551.73
+104639,Wayne Odesnik,1551.57
+104594,Marinko Matosevic,1551.5
+110685,G D Jones,1551.43
+104678,Viktor Troicki,1551.35
+104660,Sergiy Stakhovsky,1551.32
+102860,Agustin Calleri,1550.99
+103739,Jose De Armas,1550.84
+102100,Bartlomiej Dabrowski,1550.76
+104535,Daniel Garza,1550.46
+103060,Alejandro Hernandez,1550.44
+209209,Filip Misolic,1550.25
+104651,Martin Alund,1550.22
+207680,Facundo Diaz Acosta,1549.88
+105032,Sam Groth,1549.51
+209260,Luciano Darderi,1549.39
+102462,Bryan Juinio,1548.92
+104214,Igor Andreev,1548.89
+104467,Lamine Ouahab,1548.76
+104198,Guillermo Garcia Lopez,1548.76
+104368,Daniel King Turner,1548.41
+103206,Sebastien Grosjean,1548.32
+105226,Attila Balazs,1548.29
+200273,Hady Habib,1548.02
+101932,Jared Palmer,1547.87
+101334,Alexander Volkov,1547.86
+103638,Jhonson Garcia,1547.83
+103103,Dominik Hrbaty,1547.63
+106249,Joao Domingues,1546.9
+103529,Aisam Ul Haq Qureshi,1546.32
+104589,Chris Guccione,1546.2
+104166,Alex Bogomolov Jr,1546.13
+103997,Lukasz Kubot,1546.13
+104292,Izak Van Der Merwe,1546.08
+103590,Michael Quintero,1545.85
+105456,Sergio Galdos,1545.8
+104210,Ryan Russell,1545.52
+208363,Mariano Navone,1545.4
+102783,Rainer Schuettler,1545.39
+104869,Sergei Bubka,1545.13
+106162,Franco Agamenone,1544.76
+102934,Nicolas Coutelot,1544.57
+102656,Tommi Lenho,1544.44
+104330,Rajeev Ram,1544.44
+105430,Radu Albot,1544.14
+101889,Todd Woodbridge,1544.07
+105554,Daniel Evans,1543.82
+106033,Romain Arneodo,1543.55
+104229,Yen Hsun Lu,1542.86
+104252,Florian Mayer,1542.79
+104721,Josselin Ouanna,1542.68
+105004,Dimitar Kutrovsky,1542.63
+202058,Thiago Agustin Tirante,1542.41
+102087,Oleg Ogorodov,1542.33
+104305,Luka Gregorc,1541.89
+200670,J J Wolf,1541.52
+102374,Alex Corretja,1541.39
+103110,Daniele Bracciali,1541.19
+105376,Peter Gojowczyk,1541.17
+126149,Gianluca Mager,1541.14
+103280,Martin Verkerk,1540.99
+207797,Jonas Forejtek,1540.87
+101895,Michael Brown B395,1540.49
+105095,Evgeny Korolev,1540.35
+104043,Marc Lopez,1540.32
+108844,Hamed Ul Haq,1540.3
+103227,Mariano Sanchez,1540.1
+105041,Lukas Lacko,1540.03
+102856,Gustavo Kuerten,1539.68
+200514,Jurij Rodionov,1539.67
+104167,Todd Widom,1539.66
+105208,Ernests Gulbis,1539.65
+126555,Tung Lin Wu,1539.43
+102395,Ville Liukko,1539.42
+103175,Toshihide Matsui,1539.16
+124079,Pedro Martinez,1538.8
+126106,Ryan Peniston,1538.38
+104500,Somdev Devvarman,1538.3
+102104,Christian Ruud,1538.12
+105074,Ruben Bemelmans,1537.86
+106026,Yuki Bhambri,1537.75
+105064,Thomaz Bellucci,1537.32
+100431,Mansour Bahrami,1537.29
+102021,Michael Chang,1537.08
+101484,Vladimir Gabrichidze,1536.92
+105820,Juan Carlos Saez,1536.85
+105386,Janez Semrajc,1536.75
+126129,Billy Harris,1536.7
+103188,Michael Russell,1536.62
+101888,Daniel Vacek,1536.53
+104593,Daniel Gimeno Traver,1536.25
+104673,Julio Cesar Campozano,1536.21
+102320,Lazaro Navarro Batles,1536.12
+104312,Andreas Seppi,1535.99
+102811,Dusan Vemic,1535.84
+208233,Mattia Bellucci,1535.76
+103184,Bob Bryan,1535.17
+102506,Quino Munoz,1535.08
+103527,Julien Jeanpierre,1534.91
+202261,Otto Virtanen,1534.83
+103850,Sebastian Decoud,1534.78
+108701,Juan Sebastian Cabal,1534.72
+127157,Daniel Altmaier,1534.71
+202320,Beibit Zhukayev,1534.59
+105912,Diego Galeano,1534.41
+209284,Elmer Moller,1534.39
+111181,Pruchya Isarow,1534.14
+101532,Francisco Clavet,1533.87
+103913,Ian Flanagan,1533.81
+208010,Pablo Llamas Ruiz,1533.61
+103499,Aqeel Khan,1533.58
+104371,Ivo Minar,1533.08
+104583,Filip Polasek,1533.0
+102607,Juan Balcells,1532.98
+103746,Miguel Gallardo Valles,1532.87
+105902,James Duckworth,1532.49
+104352,Colin Obrien,1532.27
+106065,Marco Cecchinato,1532.19
+102716,Maxime Huard,1532.02
+102093,Martin Damm,1531.99
+120401,Tucker Vorster,1531.97
+103333,Ivo Karlovic,1531.87
+101725,Gabriel Markus,1531.73
+105028,Jesse Levine,1531.65
+104379,Todd Reid,1531.57
+103821,Danai Udomchoke,1531.43
+104268,Alejandro Falla,1531.39
+106075,Jozef Kovalik,1531.11
+200318,Yu Hsiou Hsu,1530.48
+102106,Davide Sanguinetti,1530.36
+101185,Mark Woodforde,1530.29
+103514,Young Jun Kim,1530.0
+101792,Slava Dosedel,1529.89
+103515,Filip Aniola,1529.62
+104910,Tihomir Grozdanov,1529.58
+101349,Adam Malik,1529.37
+105643,Federico Delbonis,1528.92
+122533,Nam Hoang Ly,1528.88
+101843,Sergi Bruguera,1528.88
+103065,Kepler Orellana,1528.8
+102318,Andrei Pavel,1528.62
+106361,Adam Pavlasek,1528.52
+111761,Benjamin Lock,1528.43
+101703,Guillaume Raoux,1528.3
+106216,Bjorn Fratangelo,1528.26
+103356,Michel Kratochvil,1527.91
+101196,Derrick Rostagno,1527.68
+104086,Mikhail Filima,1527.65
+210012,Henrique Rocha,1527.48
+104200,Juan Manuel Elizondo,1527.35
+101976,Federico Dondo,1527.24
+108593,Wing Luen Wong,1527.04
+210312,Oliver Ojakaar,1527.0
+108973,Carl Sundberg,1527.0
+100653,Andres Gomez,1526.98
+104823,Bruno Rodriguez,1526.89
+207678,Juan Manuel Cerundolo,1526.86
+102053,Brian Macphie,1526.83
+206470,Cezar Cretu,1526.83
+103393,Yuri Schukin,1526.8
+103292,Gaston Gaudio,1526.79
+144821,Genaro Alberto Olivieri,1526.75
+105477,Marco Trungelliti,1526.73
+103063,Sebastien De Chaunac,1526.72
+104196,Carlos Cuadrado,1526.66
+104421,Martin Vilarrubi,1526.62
+103050,Shahab Hassani Nafez,1526.62
+102558,Eric Taino,1526.6
+103593,Marcelo Barboza,1526.44
+103946,Bruno Soares,1526.42
+127760,Lukas Klein,1526.42
+104360,Adam Chadaj,1526.17
+210142,Olaf Pieczkowski,1525.95
+104609,Omar Hedayet,1525.93
+104559,Teymuraz Gabashvili,1525.91
+105961,David Souto,1525.82
+106021,Dragos Dima,1525.81
+108693,Romano Tatuhey,1525.78
+101806,Marc Kevin Goellner,1525.78
+104433,Frank Dancevic,1525.74
+105573,Henri Kontinen,1525.64
+101156,Juan Pino,1525.59
+102331,Ilou Lonfo,1525.55
+103538,James Auckland,1525.45
+209414,Luca Van Assche,1525.43
+101367,Igor Saric,1525.41
+101358,Olivier Delaitre,1525.31
+104112,Benjamin Balleret,1525.28
+105413,Andrej Martin,1525.28
+144719,Jaume Munar,1525.27
+104958,Carsten Ball,1525.22
+104217,Simon Stadler,1525.04
+106328,Christian Harrison,1524.75
+102737,Gergely Kisgyorgy,1524.72
+104496,Luis Manuel Flores,1524.68
+103902,Jan Mertl,1524.59
+106120,Ricardo Ojeda Lara,1524.44
+104146,Jonathan Chu,1524.39
+105815,Tennys Sandgren,1524.12
+104928,Sun Yong Kim Jr,1524.09
+200272,Jean Jacques Rakotohasy,1524.07
+105216,Yuichi Sugita,1524.04
+104051,Andrej Kracman,1524.01
+108847,Jahanbakhsh Souri,1524.0
+103031,Julian Alonso,1523.56
+104424,Go Soeda,1523.51
+102549,Rolandas Murashka,1523.46
+104600,Treat Conrad Huey,1523.28
+208230,Alibek Kachmazov,1523.18
+104071,Raven Klaasen,1523.11
+105487,Facundo Bagnis,1522.89
+104585,Gyorgy Balazs,1522.68
+105149,Reda El Amrani,1522.63
+133933,Thomas Yaka Kofi Setodji,1522.53
+102238,Alberto Berasategui,1522.43
+207669,Robert Strombachs,1522.29
+108607,Andrei Luzgin,1522.26
+103252,Alberto Martin,1522.03
+101495,Miguel Tobon,1521.94
+103722,Florent Serra,1521.69
+106408,Mario Vilella Martinez,1521.57
+102617,Kim Tiilikainen,1521.55
+108717,Francis Casey Alcantara,1521.42
+101901,Chuck Adams,1521.35
+110748,Nikola Milojevic,1521.35
+126190,Nicolas Alvarez,1521.35
+208843,Jerome Kym,1521.2
+200416,August Holmgren,1521.18
+105053,Santiago Giraldo,1521.13
+102477,Gaston Etlis,1521.11
+104548,Brian Baker,1521.03
+101833,Michael Tebbutt,1520.94
+104947,Marsel Ilhan,1520.9
+105932,Nikoloz Basilashvili,1520.56
+102167,Juan Albert Viloca Puig,1520.5
+101609,David Wheaton,1520.42
+207681,Francisco Comesana,1520.23
+103224,Zeljko Tosic,1520.13
+104561,Jae Sung An,1519.81
+200008,Alexis Galarneau,1519.77
+102539,Bohdan Ulihrach,1519.59
+102024,Hernan Gumy,1519.58
+209931,Lukas Pokorny,1519.49
+104476,Louk Sorensen,1519.49
+109739,Maximilian Marterer,1519.45
+103287,Krystian Pfeiffer,1519.43
+103701,Diego Hartfield,1519.38
+104209,Rainer Eitzinger,1519.35
+102469,Solon Peppas,1519.28
+103439,Dimitri Mazur,1519.24
+127300,Jurabek Karimov,1519.24
+206782,Demetris Azoides,1518.93
+104515,Mathieu Montcourt,1518.86
+120424,Yannick Maden,1518.83
+102968,Jonathan Erlich,1518.75
+209080,Blaise Bicknell,1518.59
+102632,Michal Gawlowski,1518.39
+102533,Jens Knippschild,1518.33
+104895,Abdullah Maqdas,1518.25
+102036,Marco Osorio,1518.2
+106397,Wishaya Trongcharoenchaikul,1518.13
+103794,Benjamin Becker,1518.03
+102998,Jan Michael Gambill,1518.02
+111200,Elias Ymer,1517.95
+103077,Konstantinos Economidis,1517.82
+101979,Ricardo Mena,1517.77
+102835,Luke Milligan,1517.72
+104291,Malek Jaziri,1517.71
+106390,Matteo Donati,1517.66
+104999,Mischa Zverev,1517.62
+104008,Carlos Avellan,1517.55
+102143,Nicolas Thomann,1517.53
+102327,Adam Skrzypczak,1517.42
+212063,Matej Dodig,1517.42
+134472,Antoine Bellier,1517.37
+105012,Alexander Bury,1517.33
+104477,Jorge Aguilar,1517.18
+108640,Mik Ledvonova,1517.08
+108688,Martin Sayer,1517.05
+104040,Adam Thompson,1516.92
+104224,Travis Rettenmaier,1516.65
+105113,Patrik Rosenholm,1516.62
+100991,Johnny Goudenbour,1516.57
+101958,Pierre Bouteyre,1516.35
+101348,Dave Randall,1516.09
+104383,Diogo Rocha,1515.79
+103197,John Doran,1515.74
+104633,Mathieu Rodrigues,1515.74
+103751,Jonas Froberg,1515.73
+106000,Damir Dzumhur,1515.68
+101195,Amos Mansdorf,1515.59
+207799,Matheus Pucinelli De Almeida,1515.58
+105650,Marcus Willis,1515.57
+102272,Branislav Galik,1515.49
+103018,Max Mirnyi,1515.22
+126762,Aleksandre Bakshi,1515.16
+105406,Roberto Marcora,1515.11
+108960,Michael Lai,1515.1
+117348,Y Wang,1515.0
+108764,Chris Brandi,1514.99
+104342,Matias Silva,1514.91
+105572,Austin Krajicek,1514.86
+102880,Alexander Popp,1514.74
+108845,Farhad Tadayon,1514.63
+126502,Luis Diego Chavez Villalpando,1514.62
+102706,Wei Yu Su,1514.59
+198661,Luis Felipe Noriega,1514.53
+102152,Pablo Campana,1514.5
+125571,Christian Garay,1514.49
+105806,Mirza Basic,1514.48
+103226,Walid Jallali,1514.46
+104763,Rafael Arevalo,1514.44
+101677,Zoran Sevcenko,1514.42
+105273,Mauricio Echazu,1514.31
+108656,Simon Shen,1514.25
+104122,Carlos Berlocq,1514.12
+104495,Florin Mergea,1514.07
+102306,Michael Kohlmann,1514.04
+210721,Iliyan Radulov,1514.02
+103407,Matt Klinger,1513.98
+210200,Yanaki Milev,1513.96
+209119,Aissa Benchakroun,1513.91
+211638,Jack Loutit,1513.84
+102725,Kasper Warming,1513.83
+104557,Andis Juska,1513.79
+122669,Juan Pablo Varillas,1513.71
+102787,Si Bruce Li,1513.61
+105036,Hyun Joon Kim,1513.61
+209362,Aristotelis Thanos,1513.6
+108679,Jose Bernard,1513.59
+207772,Yuttana Charoenphon,1513.55
+108953,Juan Lorenzo Gonzalez,1513.5
+208414,Sylvestre Monnou,1513.5
+212721,Benedict Badza,1513.5
+108794,Arthur Konan,1513.5
+108964,Faisal Aidil,1513.5
+104474,Leonardo Kirche,1513.5
+106262,Boris Arias,1513.5
+108826,Isaac Tetteh Quaye,1513.5
+108850,Renouk Wijemanne,1513.5
+210178,Juan Carlos Prado Angelo,1513.5
+211468,Luis Carlos Alvarez Valdes,1513.5
+100682,Ernie Fernandez,1513.5
+200014,Digvijaypratap Singh,1513.5
+103043,Coenie Van Wyk,1513.5
+134217,Skyler Butts,1513.5
+103727,Daniel Langre,1513.5
+124126,Sarp Agabigun,1513.5
+108903,Laurent Hild,1513.5
+105578,Cristian Rodriguez,1513.5
+149285,Mustapha El Natour,1513.5
+108894,Pau Gerbaud Farras,1513.5
+105773,Bruno Abdel Nour,1513.5
+202210,Edris Fetisleam,1513.5
+126473,Aljaz Radinski,1513.5
+104175,Matija Zgaga,1513.5
+108648,Michael Mora,1513.5
+106350,Andre Gaspar Murta,1513.5
+109336,Ayoub Chakrouni,1513.5
+134302,Mantas Bugailiskis,1513.5
+108664,Martin Stiegwardt,1513.5
+210105,Martyn Pawelski,1513.5
+106194,Nutthanon Kadchapanan,1513.5
+108619,Jad Ayoub,1513.5
+149283,Freddy Murray,1513.5
+108355,Taras Beiko,1513.5
+209188,Ari Fahresi,1513.5
+103826,Carlos Palencia,1513.49
+102448,Ali Hamadeh,1513.47
+103420,Michal Tabara,1513.47
+101735,Richard Fromberg,1513.44
+101696,Federico Mordegan,1513.42
+108919,Michael Ray Pallares Gonzalez,1513.4
+108784,Kevin Kung,1513.37
+144681,Niki Kaliyanda Poonacha,1513.23
+106043,Diego Schwartzman,1513.14
+103220,Oh Hee Kwon,1513.13
+104256,Clement Reix,1513.11
+105488,Jose Benitez,1513.08
+104249,Marcelo Melo,1513.04
+104858,Enrique Olivares,1513.03
+104738,Caio Zampieri,1513.02
+107689,Mark Gurr,1513.0
+108277,Srdan Muskatirovic,1512.99
+108658,Yanquiel Medina Sobrino,1512.99
+108877,Helge Rosjo,1512.99
+103316,Victor Romero,1512.98
+106886,Dmitro Tolok,1512.98
+108928,Saeid Ahmadvand,1512.98
+108889,Marc Vilanova,1512.97
+200537,Nicolas Xiviller,1512.96
+208057,Diego Fernandez Flores,1512.95
+108744,Rodrigo Rappaccioli,1512.95
+103142,Mohamed Wafa,1512.94
+103020,Guillermo Carter,1512.93
+106387,Mazen Osama,1512.93
+105681,Soong Jae Cho,1512.92
+208937,Kasidit Samrej,1512.92
+108783,Daniel Llarenas,1512.91
+138845,Anthony Jackie Tang,1512.91
+102826,Muhammad Khaliq Siddiq,1512.9
+106664,Brian Hung,1512.88
+200329,Remy Bertola,1512.87
+104979,Andrey Golubev,1512.78
+102552,Baris Ergun,1512.76
+103424,Tobias Clemens,1512.63
+131905,Manuel Guinard,1512.55
+209354,Ioannis Xilas,1512.54
+117349,F Egyir,1512.52
+202235,Jacopo Berrettini,1512.5
+108742,Siu Fai Kelvin Lam,1512.48
+209964,Liova Ayite Ajavon,1512.41
+106237,Chieh Fu Wang,1512.38
+125781,Rogelio Siller,1512.38
+105952,Renzo Olivo,1512.36
+207985,Jacob Fearnley,1512.36
+101507,Tomas Carbonell,1512.35
+107586,Lui Pang,1512.34
+103455,Michal Mertinak,1512.28
+200748,Andres Andrade,1512.25
+109737,Markos Kalovelonis,1512.21
+105052,Chris Eaton,1512.16
+105318,Thomas Schoorel,1512.11
+126613,Bogdan Borza,1512.09
+108672,William Lock,1512.05
+103323,Thomas Heyerdahl,1512.02
+102247,Andrea Gaudenzi,1511.98
+106991,Farshad Talavar,1511.97
+122321,Marat Deviatiarov,1511.87
+104023,Nicolas Renavand,1511.86
+104665,Pablo Andujar,1511.85
+105271,Gonzalo Escobar,1511.78
+108947,West Nott,1511.76
+108854,George Mcgill,1511.55
+103153,Gilles Elseneer,1511.54
+105066,Grzegorz Panfil,1511.52
+104091,Miguel Angel Lopez Jaen,1511.5
+104919,Leonardo Mayer,1511.5
+126174,Youssef Hossam,1511.48
+100943,Girts Dzelde,1511.47
+106044,Nicolas Kicker,1511.38
+101098,Guy Forget,1511.37
+102205,Sebastien Lareau,1511.36
+108852,Asiri Iddamalgoda,1511.33
+103582,Michael Berrer,1511.3
+101585,Fabio Silberberg,1511.29
+101422,Mark Kaplan,1511.29
+209860,Ignacio Buse,1511.28
+102133,Laurence Tieleman,1511.22
+102967,Marc Gicquel,1511.2
+104960,Miguel Angel Reyes Varela,1511.2
+105259,Andrei Karatchenia,1511.14
+106353,Pedja Krstin,1511.11
+105011,Illya Marchenko,1511.1
+104582,Rok Jarc,1510.98
+123896,Matija Pecotic,1510.94
+106214,Oscar Otte,1510.9
+106843,David Katcharava,1510.9
+105677,Nikola Cacic,1510.89
+108647,Anton Tsymbalov,1510.81
+121531,Mats Moraing,1510.8
+209903,Lukas Neumayer,1510.78
+103145,Amir Hadad,1510.66
+105625,Alvaro Raposo De Oliveira,1510.62
+144650,Rhett Purcell,1510.61
+103187,Hisham Hemeda,1510.56
+101382,Marcelo Filippini,1510.47
+106410,Jorge Brian Panta Herreros,1510.34
+104887,Piero Luisi,1510.25
+102571,Gregory Carraz,1510.23
+103747,Dominik Meffert,1510.18
+126623,Alexander Erler,1510.11
+102287,Albert Portas,1510.09
+106310,Alexander Ritschard,1510.06
+208144,Giles Hussey,1509.93
+101788,Doug Flach,1509.91
+102336,Kotaro Miyachi,1509.83
+104755,Richard Gasquet,1509.77
+117358,Harry Bourchier,1509.55
+126939,Khumoun Sultanov,1509.47
+105633,Mohamed Safwat,1509.46
+104839,Yassine Idmbarek,1509.45
+102911,Andrei Stoliarov,1509.45
+108746,Austen Childs,1509.42
+104195,Simone Vagnozzi,1509.38
+209409,Coleman Wong,1509.36
+104803,Younes Rachidi,1509.35
+103229,Kornel Bardoczky,1509.1
+101373,Karsten Braasch,1509.09
+103986,Radoslav Lukaev,1508.92
+103487,Federico Luzzi,1508.9
+105070,Hans Podlipnik Castillo,1508.86
+105678,Axel Michon,1508.84
+101589,Arnaud Boetsch,1508.77
+105826,Alejandro Gomez Gb42,1508.72
+104250,Prakash Amritraj,1508.56
+103702,Stefano Ianni,1508.41
+102212,Corrado Borroni,1508.38
+105541,Alex Llompart,1508.38
+211514,Justin Engel,1508.23
+103448,Gabriel Trujillo Soler,1508.03
+103978,Rabie Chaki,1507.97
+101463,Bernd Karbacher,1507.92
+105542,Bastian Trinker,1507.89
+104235,Matwe Middelkoop,1507.78
+103179,Jurek Stasiak,1507.77
+102483,David Caballero,1507.75
+101900,Nicklas Kulti,1507.68
+127143,Jirat Navasirisomboon,1507.67
+102347,Dmitri Tomashevich,1507.66
+103045,Reginald Willems,1507.52
+104992,Syrym Abdukhalikov,1507.51
+111187,Kaichi Uchida,1507.41
+106137,Tristan Lamasine,1507.34
+106302,Andrew Harris,1507.32
+103531,Thomas Oger,1507.3
+103460,Konstantin Don Gruber,1507.17
+144797,Carl Soderlund,1507.14
+209857,Leandro Riedi,1507.13
+200677,Rio Noguchi,1506.93
+104173,Sam Warburg,1506.82
+105688,Manuel Sanchez,1506.65
+104804,Amir Weintraub,1506.64
+103174,Noam Okun,1506.49
+103182,Markus Hipfl,1506.45
+102061,Kevin Ullyett,1506.35
+103421,Peter Handoyo,1506.28
+106225,Andrew Whittington,1505.92
+103225,Simon Larose,1505.91
+111453,Mikael Torpegaard,1505.88
+209279,Terence Atmane,1505.84
+207249,Alexandros Skorilas,1505.77
+103505,Vasilis Mazarakis,1505.49
+102993,Michal Chmela,1505.37
+126197,Orlando Luz,1505.32
+102184,David Prinosil,1505.31
+105181,Miljan Zekic,1505.2
+104695,Fritz Wolmarans,1505.11
+103444,Jean Rene Lisnard,1505.08
+106536,Andres Filimonov,1505.04
+105147,Tatsuma Ito,1505.02
+105954,Peter Nagy,1504.97
+105339,Yan Bai,1504.96
+102146,Jordi Burillo,1504.93
+117353,Duck Hee Lee,1504.92
+103170,Wei Ju Chen,1504.87
+200574,Alexander Donski,1504.86
+103478,Diego Veronelli,1504.86
+210686,Michael Agwi,1504.85
+102830,Paulo Carvallo,1504.84
+105948,Federico Coria,1504.81
+102985,Gustavo Marcaccio,1504.71
+102131,Alistair Hunt,1504.7
+103003,Jean Francois Bachelot,1504.69
+105300,Sergio Gutierrez Ferrol,1504.69
+102433,Mose Navarra,1504.68
+102873,Rob Cheyne,1504.66
+105031,Saketh Myneni,1504.57
+105438,Inigo Cervantes Huegun,1504.55
+105047,Tim Puetz,1504.43
+105152,Marcin Gawron,1504.4
+206703,Paul Jubb,1504.34
+105132,Jurgen Zopp,1504.32
+104019,Kristof Vliegen,1504.19
+104712,Israel Morales,1504.1
+103521,Andrea Stoppini,1504.09
+209318,Petr Nesterov,1504.07
+105905,Danilo Petrovic,1504.02
+208300,Omni Kumar,1503.93
+202195,Maxime Cressy,1503.82
+108715,Nicolas Salama,1503.8
+149282,Nicolai Budkov Kjaer,1503.79
+105404,Michael Mcclune,1503.7
+111197,Jonathan Mridha,1503.62
+106045,Denis Kudla,1503.6
+101563,Joseph Lizardo,1503.58
+208028,Francisco Llanes,1503.55
+101970,Iztok Bozic,1503.5
+104618,Devin Mullings,1503.48
+207213,Duje Ajdukovic,1503.46
+108810,Khaled El Salawy,1503.15
+126107,Michael Geerts,1503.12
+102808,Kalle Flygt,1503.11
+101805,David Nainkin,1502.92
+104948,Petar Jelenic,1502.87
+206750,Daniil Glinka,1502.84
+105081,Jean Michel Durango,1502.83
+102722,Attila Savolt,1502.74
+102201,Lionel Roux,1502.61
+106393,Frederico Ferreira Silva,1502.56
+108595,Mohammed Reza Tavakoli,1502.53
+106174,Gonzalo Lama,1502.52
+134457,Nicolas Moreno De Alboran,1502.51
+102301,Sebastien Leblanc,1502.48
+209870,Gunawan Trismuwantara,1502.44
+202269,Justin Barki,1502.43
+200374,Nicolas Alvarez Varona,1502.36
+105590,Uladzimir Ignatik,1502.36
+103690,Marcin Matkowski,1502.31
+103923,Radoslaw Nijaki,1502.31
+210340,Philip Sekulic,1502.24
+123809,Ivan Gakhov,1502.17
+105499,Christopher Diaz Figueroa,1502.11
+104677,Artem Sitak,1502.09
+201995,Cayetano March,1501.94
+102689,Martin Spottl,1501.87
+105060,Aldin Setkic,1501.83
+101500,Christian Saceanu,1501.7
+207134,Fitriadi M Rifqi,1501.65
+101711,Alex Obrien,1501.65
+105714,Hugo Nys,1501.65
+105428,Marcus Daniell,1501.63
+104247,Sebo Kiss,1501.6
+126530,Peter Bothwell,1501.6
+108601,Bob Borella,1501.57
+104136,Santiago Gonzalez,1501.57
+138846,Hong Kit Jack Wong,1501.57
+105408,Soren Wedege,1501.47
+144799,Miguel Angel Este,1501.43
+207139,Palaphoom Kovapitukted,1501.43
+105877,Emilio Gomez,1501.42
+120792,M Abid Ali Khan Akbar,1501.41
+208518,Hazem Naw,1501.36
+101732,Pietro Pennisi,1501.34
+104489,Barry King,1501.33
+122554,David Jorda Sanchis,1501.33
+101835,Arne Thoms,1501.24
+105472,Nils Langer,1501.23
+144751,Rigele Te,1501.1
+200702,Sina Moghimi,1501.08
+102403,Bojan Vujic,1501.06
+108855,Robert Collins,1501.01
+104661,Pierre Ludovic Duclos,1500.99
+108682,Stephen Nugent,1500.98
+101370,Paolo Pambianco,1500.91
+101238,Andres Vysand,1500.89
+106177,Oriol Roca Batalla,1500.86
+103803,Ashkan Shokoofi,1500.85
+101890,Jonathan Stark,1500.79
+103242,Juan Giner,1500.77
+108728,Cheuk Wai Hui,1500.77
+200460,John Bryan Decasa Otico,1500.77
+200553,Alen Avidzba,1500.72
+108942,Henry Estrella,1500.69
+106121,Taro Daniel,1500.69
+102226,David Witt,1500.65
+105671,Gastao Elias,1500.61
+102117,Eduardo Nicolas,1500.59
+104698,Diego Cubas,1500.59
+103565,Stephane Robert,1500.56
+108583,Daniel Chavez Morales,1500.55
+103454,Nicolas Massu,1500.54
+111067,Anthony Mills,1500.52
+102138,Alexander Tabares,1500.5
+120798,Hans Hach Verdugo,1500.44
+200390,Kacper Zuk,1500.44
+101982,Jordi Mas,1500.43
+103324,Arnaud Di Pasquale,1500.41
+108862,Kristian Mitrovski,1500.34
+111426,John Morrissey,1500.3
+209294,Diego Duran,1500.3
+102753,Wolfgang Schranz,1500.29
+102713,Jing Zhu Yang,1500.29
+108427,Tomasz Lichon,1500.22
+100865,Marcelo Ingaramo,1500.19
+102437,Adrian Voinea,1500.15
+108631,Wen Lung Chang,1500.1
+200622,Hernando Jose Escurra Isnardi,1500.06
+103735,Lovro Zovko,1500.04
+106085,Hamid Reza Nadaf,1500.04
+108606,Gert Vilms,1500.03
+210308,Stylianos Christodoulou,1500.02
+101448,Tasos Bavelas,1500.0
+208279,Alejandro Moro Canas,1499.99
+104243,Oscar Posada,1499.98
+144748,Kris Van Wyk,1499.95
+101954,Oscar Bustos,1499.91
+126209,Peter Bertran,1499.85
+108776,Vimuktha De Alwis,1499.81
+103155,Ivo Bratanov,1499.78
+105842,Di Wu,1499.78
+108770,Nicholas Sayer,1499.73
+144923,Louis Wessels,1499.7
+104162,Deniss Pavlovs,1499.7
+210460,Nishesh Basavareddy,1499.7
+108843,Toufiq Zhalan,1499.69
+108791,Oskars Vaskis,1499.69
+105182,Antso Rakotondramanga,1499.68
+104920,Denys Molchanov,1499.63
+118808,Daniel Vallejo,1499.63
+103032,Francisco Fogues,1499.62
+108924,Jing Yi Li,1499.61
+208364,Franco Roncadelli,1499.61
+105334,Luis David Martinez,1499.57
+207973,Ainius Sabaliauskas,1499.56
+108600,Sean Cooper,1499.55
+102939,Jean Baptiste Perlant,1499.53
+104579,Romain Jouan,1499.51
+102598,Nouhoun Sangare,1499.51
+108767,Gonzales Austin,1499.51
+144645,Zdenek Kolar,1499.49
+101831,Mustafa Azkara,1499.48
+106053,Philip Davydenko,1499.48
+212720,Juan Carlos Fuentes Vasquez,1499.48
+106987,Fadel Berthe,1499.48
+126156,Antoine Hoang,1499.46
+103400,Hendri Susilo Pramono,1499.45
+102484,Massimo Calvelli,1499.38
+102944,Stefano Cobolli,1499.37
+144985,Ergi Kirkin,1499.37
+200279,Osgar Ohoisin,1499.36
+209867,Daniil Ostapenkov,1499.36
+123965,Rodrigo Banzer,1499.33
+103485,Ivan Beros,1499.31
+106882,Dimitri Muzyka,1499.29
+100926,Ken Flach,1499.28
+103133,Olivier Mutis,1499.25
+105062,Mikhail Kukushkin,1499.25
+134120,Kuan Yi Lee,1499.23
+102512,Joseph Sirianni,1499.22
+106169,Vladyslav Manafov,1499.21
+101368,Christian Miniussi,1499.19
+103823,Denis Gremelmayr,1499.08
+207834,Juan Alejandro Hernandez Serrano,1499.05
+100984,Peter Wright,1499.05
+100770,Peter Moraing,1499.03
+105539,Evgeny Donskoy,1498.96
+108846,Syed Nasir Sherazi,1498.96
+209226,Adolfo Daniel Vallejo,1498.95
+102942,Vladimir Pavicevic,1498.93
+126663,Juan Pablo Ficovich,1498.92
+103047,Julien Varlet,1498.89
+208223,Alvaro Guillen Meza,1498.85
+102904,Leos Friedl,1498.85
+103908,Paul Henri Mathieu,1498.82
+101811,Bill Barber,1498.82
+200259,Ugo Blanchet,1498.74
+102465,Gabriel Silberstein,1498.69
+108720,Eddy Chala,1498.59
+101720,Agustin Garizzio,1498.55
+108950,Juan Andres Gomez,1498.55
+108822,Andrej Krasevec,1498.53
+108838,Vittaya Samrej,1498.41
+104281,Ryler Deheart,1498.4
+104415,Colin Fleming,1498.38
+127123,Mateus Alves,1498.34
+103868,Ivan Navarro,1498.33
+108979,Benito Jose Suriano,1498.29
+102969,Sergei Yaroshenko,1498.27
+104294,Hao Lu,1498.26
+108667,Kwasi Ahenkora,1498.22
+212051,Joaquin  Aguilar Cardozo ,1498.21
+102738,Stefano Tarallo,1498.13
+104402,Clement Morel,1498.13
+122078,Dmitry Popko,1498.11
+103645,Balazs Veress,1498.1
+104022,Mikhail Youzhny,1498.08
+103998,Mario Monroy,1498.05
+202122,Yuta Shimizu,1498.0
+105934,Chuhan Wang,1497.98
+104392,Franco Ferreiro,1497.95
+202065,Petros Tsitsipas,1497.93
+209874,Maks Kasnikowski,1497.91
+108755,Maciej Kost,1497.89
+210013,Martin Damm Sr,1497.83
+102363,Filippo Veglio,1497.8
+103763,Martin Slanar,1497.72
+104260,Johny De Leon,1497.69
+103148,Norbert Mazany,1497.66
+209263,Matteo Gigante,1497.64
+206716,Lukas Hellum Lilleengen,1497.61
+105325,Germain Gigounon,1497.58
+200297,Aziz Ouakaa,1497.57
+106158,Suk Young Jeong,1497.56
+102624,Andrew Painter,1497.56
+105691,Scott Griekspoor,1497.51
+208021,Kyrian Jacquet,1497.47
+103070,Christophe Pognon,1497.46
+102519,Marcio Carlsson,1497.41
+103646,Lars Uebel,1497.39
+102565,Alexander Waske,1497.36
+108915,Luis Haddock,1497.33
+103286,Yohny Romero,1497.2
+102875,Luke Smith,1497.19
+102300,Gouichi Motomura,1497.18
+103865,Prima Simpatiaji,1497.06
+101822,Luis Lobo,1497.06
+109686,Riccardo Bonadio,1497.05
+144973,Santiago Fa Rodriguez Taverna,1496.96
+103770,Kevin Sorensen,1496.93
+105874,Albano Olivetti,1496.87
+101374,Leonardo Lavalle,1496.82
+109640,Andrea Basso,1496.78
+108739,Wilfredo Gonzalez,1496.76
+104640,Pablo Galdon,1496.74
+105436,Markus Eriksson,1496.68
+104901,Vladimir Ivanov,1496.65
+202262,Filip Cristian Jianu,1496.61
+126591,Jan Zielinski,1496.56
+212044,Yi Zhou,1496.54
+105651,Daniel Smethurst,1496.54
+103250,Rodolphe Cadart,1496.46
+103158,Johan Ortegren,1496.44
+104361,Michel Koning,1496.3
+103296,Ivaylo Traykov,1496.24
+104921,Kirati Siributwong,1496.23
+100876,Bong Soo Kim,1496.19
+103553,Alun Jones,1496.19
+104908,Mikal Oliver Statham,1496.16
+208013,Dane Sweeny,1496.11
+110476,Mousa Shanan Zayed,1496.09
+105930,Daniel Kosakowski,1496.07
+101876,Massimo Ardinghi,1496.07
+144909,Francisco Cabral,1496.03
+103319,Jeff Morrison,1496.03
+103905,Ricardo Chile Fonte,1495.95
+105613,Norbert Gombos,1495.89
+117357,Omar Jasika,1495.88
+104158,Andrew Anderson,1495.86
+202197,Carlos Gimeno Valero,1495.82
+105775,Marin Draganja,1495.76
+200274,Alex Diaz,1495.68
+134518,Patrick Kaukovalta,1495.59
+105501,Akash Wagh,1495.55
+106187,Denis Yevseyev,1495.53
+102028,Massimo Valeri,1495.51
+119506,Jean Segodo,1495.51
+106283,Mitchell Krueger,1495.49
+126152,Ryan Shane,1495.48
+104595,Sascha Kloer,1495.43
+211776,Martin Landaluce,1495.42
+144870,Federico Agustin Gomez,1495.34
+108582,Luis Perez Chete,1495.21
+103718,David Martin,1495.21
+101659,Jan Apell,1495.2
+131951,Daniel Cukierman,1495.16
+102077,Alexander Shvec,1495.12
+103178,Johan Settergren,1495.11
+105063,Andrea Arnaboldi,1495.11
+104826,Federico Sansonetti,1495.1
+104227,Augustin Gensse,1495.08
+105288,Guillermo Rivera Aranguiz,1495.05
+103666,Ilia Kushev,1495.04
+102693,Leonardo Olguin,1495.02
+200310,Alexander Zgirovsky,1494.98
+108991,Sergei Petrouchevsky,1494.97
+206589,Gabi Adrian Boitan,1494.97
+126504,Andrea Pellegrino,1494.97
+209120,Yassine Dlimi,1494.96
+105933,Roberto Quiroz,1494.93
+208210,Chris Rodesch,1494.91
+101584,Keith Evans,1494.88
+104739,Guillermo Alcaide,1494.8
+102910,Salvador Navarro,1494.76
+102086,Igor Kornienko,1494.74
+211346,Andres Martin,1494.73
+102978,Zbynek Mlynarik,1494.72
+106261,Dennis Novikov,1494.69
+103328,Andres Pedroso,1494.66
+200589,Sam Riffice,1494.64
+208004,Harold Mayot,1494.62
+102789,Jay Gooding,1494.61
+207494,Dalibor Svrcina,1494.59
+103716,Uros Vico,1494.58
+103419,Gabriel Montilla,1494.57
+104967,Alexander Sadecky,1494.56
+101959,Robert Eriksson,1494.56
+106066,Victor Baluda,1494.56
+105641,Blaz Rola,1494.56
+200343,David Szintai,1494.48
+101812,Raviv Weidenfeld,1494.4
+207660,Nicholas David Ionel,1494.4
+145001,Evan Furness,1494.38
+103737,Edgardo Massa,1494.36
+102252,Ignacio Truyol,1494.32
+104516,Arnau Brugues Davi,1494.28
+101980,Howard Joffe,1494.28
+106074,Jung Woong Na,1494.26
+103027,Markus Menzler,1494.25
+101565,Marius Barnard,1494.22
+109520,Herkko Pollanen,1494.14
+105591,Matt Reid,1494.12
+202168,Ye Cong Mo,1494.12
+106764,Christopher Koderisch,1494.07
+105084,James Lemke,1494.06
+104753,Woong Sun Jun,1494.03
+200265,Ulises Blanch,1494.02
+105782,Enrique Lopez Perez,1494.02
+101462,Francisco Roig,1494.01
+103157,Arvind Parmar,1493.96
+104465,Martin Emmrich,1493.94
+104226,Bastian Knittel,1493.92
+209914,Andreja Petrovic,1493.91
+104707,Denis Matsukevitch,1493.9
+102584,Alexandre Strambini,1493.85
+104275,Josko Topic,1493.84
+103039,Tripp Phillips,1493.79
+103563,Gabriel Pitta,1493.78
+105128,Guillermo Olaso,1493.77
+101510,Henrik Holm,1493.53
+103699,Fred Hemmes,1493.52
+106031,Raymond Sarmiento,1493.5
+207663,Nikolas Sanchez Izquierdo,1493.43
+102809,Axel Pretzsch,1493.37
+200125,Mykyta Mashtakov,1493.37
+101061,Jimmy Arias,1493.35
+108637,Nomi Qamar,1493.33
+103339,Wesley Whitehouse,1493.3
+101386,Glenn Wilson,1493.24
+105336,Nicolas Meister,1493.23
+144946,Rayane Roumane,1493.2
+125574,Soteris Hadjistyllis,1493.17
+102376,Radovan Svetlik,1493.12
+105080,Miloslav Mecir Jr,1493.11
+102788,Jan Vacek,1493.04
+208597,Chak Lam Coleman Wong,1492.92
+105065,Tim Smyczek,1492.9
+206748,Giulio Zeppieri,1492.85
+101904,Chris Haggard,1492.83
+103053,Nikos Rovas,1492.77
+104046,Bostjan Osabnik,1492.76
+102372,Sule Ladipo,1492.72
+208117,Adam Neff,1492.72
+106220,Dimitar Kuzmanov,1492.69
+104393,Gregoire Burquier,1492.69
+102715,Ignacio Hirigoyen,1492.67
+102886,Frantisek Cermak,1492.65
+122687,Rodrigo Senattore,1492.63
+126206,Alex Rybakov,1492.63
+104034,Dmitry Vlasov,1492.63
+206499,Aleksandar Kovacevic,1492.63
+104558,Mohammed Abdulla,1492.61
+101968,Ola Kristiansson,1492.6
+101721,Markus Zillner,1492.6
+106348,Evgeny Karlovskiy,1492.57
+103912,Mario Radic,1492.57
+126208,Yusuke Takahashi,1492.46
+103369,Melle Van Gemerden,1492.45
+102897,Nir Welgreen,1492.45
+102768,Federico Browne,1492.44
+103847,Adrian Bohane,1492.42
+202398,Michael Vrbensky,1492.41
+105175,Kristijan Mesaros,1492.41
+105116,Dusan Lojda,1492.39
+207411,Jesper De Jong,1492.38
+208653,Isaac Becroft,1492.36
+105490,Jui Chen Hung,1492.34
+123983,Nerman Fatic,1492.25
+101409,Jaime Yzaga,1492.18
+144826,Aziz Dougaz,1492.18
+202075,Adria Soriano Barrera,1492.15
+126535,Carlos Taberner,1492.12
+102751,Todd Perry,1492.08
+104993,Martin Vaisse,1492.06
+105999,Bowen Ouyang,1492.06
+105882,Stefano Travaglia,1492.04
+102843,Suwandi Suwandi,1491.98
+105207,Andrei Daescu,1491.97
+104932,Kenny De Schepper,1491.93
+104743,Kamil Capkovic,1491.91
+104211,Roman Valent,1491.91
+103830,Shao Xuan Zeng,1491.9
+101864,Fernon Wibier,1491.84
+102116,Sang Hoon Lee,1491.82
+104672,Vincent Millot,1491.82
+106311,Marko Tepavac,1491.78
+106380,Gonzalo Villanueva,1491.78
+109303,Stefano Napolitano,1491.77
+103988,Mariano Albert Ferrando,1491.75
+104485,Nick Van Der Meer,1491.74
+105077,Albert Ramos,1491.71
+200270,Alex Knaff,1491.7
+200266,Javier Barranco Cosano,1491.68
+108874,Dickson Ogu,1491.68
+108644,Patrick Chucri,1491.68
+212718,Heve Kelley,1491.68
+104081,Boris Pashanski,1491.65
+103371,Emin Agaev,1491.64
+103623,Jacob Adaktusson,1491.61
+103422,Sebastian Fitz,1491.59
+144984,Artem Dubrivnyy,1491.57
+104952,Martin Pedersen,1491.55
+105751,Roberto Ortega Olmedo,1491.55
+104161,Tomislav Peric,1491.52
+103594,Oliver Marach,1491.52
+102140,Bruno Fragoso,1491.48
+103878,Zach Dailey,1491.48
+104314,Brian Dabul,1491.48
+103475,Thomas Messmer,1491.47
+102394,Johan Van Herck,1491.47
+100581,John McEnroe,1491.44
+208353,Francesco Maestrelli,1491.35
+101751,Ross Matheson,1491.33
+106374,Filip Veger,1491.32
+103457,Petr Kralert,1491.3
+103626,Tomas Tenconi,1491.27
+144652,William Blumberg,1491.27
+105609,Ilya Belyaev,1491.26
+212733,Matthew Forbes,1491.25
+104890,Andreas Haider Maurer,1491.25
+200621,Bruno Britez,1491.2
+124063,Santiago Maresca,1491.16
+207531,Caleb Chakravarthi,1491.13
+102920,Diego Hipperdinger,1491.09
+110751,Sebastian Fanselow,1491.07
+104287,Steven Korteling,1491.06
+103092,Nuno Matias,1491.0
+144817,Marc Andrea Huesler,1490.97
+105163,Gleb Sakharov,1490.95
+104138,Henry Adjei Darko,1490.94
+117352,Oliver Anderson,1490.93
+100852,Howard Herr,1490.93
+207386,Finn Reynolds,1490.91
+104149,Adrian Cruciat,1490.9
+103365,Javier Garcia Sintes,1490.87
+110867,Anders Haseth,1490.87
+101150,Gianluca Pozzi,1490.87
+105281,Eric Quigley,1490.84
+105692,Alessandro Bega,1490.82
+103984,Julien Mathieu,1490.76
+102097,Naratorn Srichaphan,1490.76
+102581,Goran Oresic,1490.75
+105565,Ya Nan Ma,1490.74
+210464,Darwin Blanch,1490.72
+106430,Patrick Ciorcila,1490.71
+122279,Romain Bogaerts,1490.7
+102892,Susheel Narla,1490.67
+111156,Nathan Pasha,1490.64
+126533,Alvaro Lopez San Martin,1490.64
+103353,Ingo Neumuller,1490.63
+103805,Catalin Gard,1490.62
+144807,Kenneth Raisma,1490.61
+108585,Americo Venero Montes,1490.6
+144813,Benjamin Hannestad,1490.57
+102545,Pedro Braga,1490.56
+125782,Kasparas Zemaitelis,1490.5
+103358,Nicolas Todero,1490.48
+127570,Rodrigo Arus,1490.47
+104282,Dennis Peschek,1490.46
+102575,Julien Chauvin,1490.44
+103273,Dong Hyun Kim,1490.43
+200516,Patrick Kypson,1490.42
+207457,Wojciech Marek,1490.42
+107653,Marco Cacopardo,1490.38
+105269,Marcelo Demoliner,1490.33
+103975,Eric Nunez,1490.33
+108997,Clint Bowles,1490.33
+102081,Brett Hansen Dent,1490.33
+102388,Simon Aspelin,1490.32
+200666,Jie Cui,1490.29
+104295,Raphael Durek,1490.29
+208108,Brian Shi,1490.28
+101179,Jean Philippe Fleurian,1490.27
+102657,Yue Wei Wang,1490.25
+103677,Andreas Fasching,1490.25
+102675,Timur Ganiev,1490.24
+104099,Israel Matos Gil,1490.23
+106203,Pedro Sakamoto,1490.22
+108994,Andrew Park,1490.22
+101230,Andrei Chesnokov,1490.22
+210535,Maxim Shin,1490.19
+208169,Titouan Droguet,1490.18
+104612,Daniel Yoo,1490.17
+109699,Julian Lenz,1490.16
+104508,Robert Yim,1490.16
+105917,Gianni Mina,1490.16
+103239,Marcus Sarstrand,1490.14
+202475,Philip Henning,1490.14
+101669,Gary Henderson,1490.13
+108998,Patrick Osnua,1490.13
+106228,Juan Ignacio Londero,1490.1
+103021,Ricardo Schlachter,1490.1
+210753,Matic Kriznik,1490.0
+103149,Mathias Hellstrom,1489.99
+103730,Jonathan Marray,1489.97
+102335,Taso Vasiliadis,1489.95
+103205,Emilio Daniel Baez Britez,1489.91
+103068,Chemseddine Belal,1489.88
+211415,Cole Gromley,1489.87
+200336,Trent Bryde,1489.87
+103841,Julio Peralta,1489.85
+105655,Hiroki Moriya,1489.82
+103405,Rodolfo Rake,1489.82
+105100,Edward Corrie,1489.81
+210250,Erik Arutiunian,1489.81
+104205,Taras Demyanekno,1489.8
+210494,Theo Papamalamis,1489.79
+208882,Roman Andres Burruchaga,1489.79
+101860,Mark Draper,1489.78
+105072,Sanam Singh,1489.76
+104262,Flavio Cipolla,1489.76
+108863,Alvis Tabors,1489.74
+104093,Nickolai Dyachok,1489.73
+207839,Yousaf Khalil,1489.72
+132028,Justin Lunn,1489.72
+103560,Kj Hippensteel,1489.71
+103748,Jan Minar,1489.71
+104963,Yannick Mertens,1489.7
+100962,Thomas Hogstedt,1489.62
+103381,Andy Fahlke,1489.61
+102742,Armand Strombach,1489.61
+108970,John El Khoury,1489.59
+105596,Jan Satral,1489.5
+105311,Joao Sousa,1489.49
+101766,Bill Behrens,1489.41
+104160,Lukas Dlouhy,1489.4
+102614,Victor Sendin,1489.39
+101771,Ashley Naumann,1489.38
+101858,Gilles Bastie,1489.37
+105871,Sekou Bangoura,1489.37
+101672,Michael Geserer,1489.34
+134840,Raul Brancaccio,1489.27
+108741,Mohd Assri Merzuki,1489.27
+200335,Felipe Meligeni Alves,1489.26
+102221,Diego Lozano,1489.25
+105529,Carlos Gomez Herrera,1489.25
+126185,Evgenii Tiurnev,1489.24
+106269,Austin Smith,1489.23
+108999,Dan Cantwell,1489.21
+200307,Tao Mu,1489.19
+104822,N Vijay Sundar Prashanth,1489.18
+103964,Tobias Klein,1489.17
+101626,Stephen Noteboom,1489.16
+102615,Dennis Van Scheppingen,1489.14
+105502,N Sriram Balaji,1489.12
+200647,Sho Shimabukuro,1489.09
+104488,Armin Sandbichler,1489.08
+102522,Fabio Maggi,1489.07
+104355,Lester Cook,1489.04
+108968,Jason Sankey,1489.04
+102307,Ling Lu,1489.01
+105630,Tomislav Ternar,1489.01
+102434,Vincent Spadea,1489.0
+207401,Sheil Kotecha,1488.99
+106335,Alexios Halebian,1488.99
+126573,Thomas Fancutt,1488.99
+105201,Marc Abdulnour,1488.98
+104037,Phillip Harboe,1488.98
+102251,Mariano Hood,1488.96
+100606,Mike Bauer,1488.94
+110636,Clay Thompson,1488.94
+105830,Hicham Khaddari,1488.93
+102543,Chia Yen Tsai,1488.92
+103663,Matias Boeker,1488.92
+101420,Vaclav Roubicek,1488.91
+211458,Nathan Anthony Barki,1488.9
+200181,Amer Naow,1488.88
+105935,Duilio Beretta,1488.87
+102987,Andre Sa,1488.84
+103033,Helder Lopes,1488.79
+122082,Francisco Yim Kim,1488.77
+108948,Alexandr Zotov,1488.77
+122471,Danylo Kalenichenko,1488.74
+103204,Hugo Armando,1488.73
+102948,Oliver Freelove,1488.72
+103863,Mikhail Elgin,1488.7
+101279,Philippe Pech,1488.68
+103052,Mariano Delfino,1488.66
+103762,John Paul Fruttero,1488.64
+106321,Xin Gao,1488.64
+101764,Yu Hui Lien,1488.63
+108685,Frederick Sletting Johnsen,1488.61
+209278,Alec Beckley,1488.58
+105512,Alexander Sarkissian,1488.57
+133979,Hasan Ibrahim,1488.57
+108708,Duane Williams,1488.56
+103753,Boris Bachert,1488.55
+105252,Takahiro Ittogi,1488.53
+104470,Komlavi Loglo,1488.5
+106138,Yaraslav Shyla,1488.49
+108904,Nigel Badza,1488.48
+208476,Kyle Johnson,1488.47
+211572,Tegar Abdi Satrio Wibowo,1488.46
+105783,Chase Buchanan,1488.43
+101625,Steve Herdoiza,1488.43
+104284,Frank Condor,1488.43
+108988,Mohamed Redha Ouahab,1488.41
+208852,Stefanos Sakellaridis,1488.39
+202359,Marvin Moeller,1488.39
+133301,Giovani Samaha,1488.37
+108867,Serge Brueck,1488.36
+101704,Ellis Ferreira,1488.36
+200484,Rudolf Molleker,1488.34
+202400,Alastair Gray,1488.34
+104412,Matt Simpson,1488.3
+102224,Miguel Pastura,1488.3
+210740,Liam Krall,1488.29
+102430,Adam Peterson,1488.29
+102276,Sandeep Kirtane,1488.27
+104830,Matteo Marrai,1488.26
+108713,Julen Uriguen,1488.26
+103167,Jocelyn Robichaud,1488.26
+102428,Johan Hede,1488.24
+200526,Juan Lugo,1488.23
+103465,Paul Logtens,1488.23
+104007,Andre Ghem,1488.2
+108911,William Ward,1488.19
+101836,Udo Plamberger,1488.18
+200116,Camilo Ugo Carabelli,1488.17
+123755,Daniel Elahi Galan,1488.13
+104504,Ross Hutchins,1488.08
+104627,Boy Westerhof,1488.04
+101629,Matt Lucena,1488.0
+200214,Alan Fernando Rubio Fierros,1488.0
+108649,Chris Numbers,1487.99
+102702,Relja Fiser Dulic,1487.96
+111186,Syed Mohd Agil Syed Naguib,1487.95
+101035,Menno Oosting,1487.95
+104484,Lawal Shehu,1487.94
+102425,Niko Karagiannis,1487.92
+105059,Kento Takeuchi,1487.91
+119511,Loic Didavi,1487.9
+108941,Damar Johnson,1487.9
+105440,Arsenije Zlatanovic,1487.89
+105103,Pavel Katliarov,1487.88
+104917,Anas Fattar,1487.88
+104896,Bruno Agostinelli,1487.88
+209238,Sebastian Dominguez,1487.85
+102869,Galo Blanco,1487.84
+103348,Timo Fleischfresser,1487.83
+104684,Navdeep Singh,1487.82
+102206,Stephane Matheu,1487.81
+108702,George Kallis,1487.81
+103714,Andreas Vinciguerra,1487.79
+102578,Fredrik Bergh,1487.78
+102714,Ekkarin Pisuth Arnonth,1487.78
+108381,Thomas Andersen,1487.73
+108922,Will Farah Lebar,1487.71
+105026,Takuto Niki,1487.7
+102945,Luke Bourgeois,1487.7
+212082,Joel Schwaerzler,1487.69
+100815,David Pate,1487.66
+108837,Graeme Foster,1487.66
+126143,Andreas Bjerrehus,1487.63
+105938,Antoine Escoffier,1487.61
+207395,Lleyton Cronje,1487.6
+102755,Alex Witt,1487.6
+103609,Matthew Behrmann,1487.59
+102400,Elia Grossi,1487.56
+104591,Patrick Tierro,1487.56
+108681,Andrey Stepanov,1487.55
+122260,Jaan Kononov,1487.53
+103958,Philip Gubenco,1487.52
+100619,George Kalovelonis,1487.52
+101931,Marcus Hilpert,1487.52
+104646,Purav Raja,1487.51
+102664,Petr Pala,1487.51
+105220,Jun Chao Xu,1487.51
+198630,Serge Dakessian,1487.5
+104519,Roman Vogeli,1487.49
+106425,Blake Mott,1487.48
+212037,Amir Milushev,1487.48
+106165,Diego Hidalgo,1487.46
+103995,Pedro Leao,1487.45
+101339,Agustin Moreno,1487.45
+104317,David Luque Velasco,1487.4
+103306,Florian Allgauer,1487.39
+101226,Johan Carlsson,1487.37
+101815,Sergio Gomez Barrio,1487.35
+108737,Marco Antonio Rojas,1487.35
+102397,Jose Imaz Ruiz,1487.33
+207421,Alex Fairbanks,1487.3
+105341,Thomas Fabbiano,1487.3
+136704,Manuel Castellanos,1487.29
+101522,Chi Wan Kim,1487.27
+108680,Sergey Makashin,1487.24
+101800,Daniele Balducci,1487.22
+101861,Thomas Buchmayer,1487.22
+103059,Radovan Chrz,1487.21
+208859,Francesco Passaro,1487.2
+102378,Juan Gisbert Jr,1487.2
+108829,Alexander Ofori,1487.15
+210039,Orel Kimhi,1487.14
+104473,Walter Trusendi,1487.13
+104953,Nikolai Fidirko,1487.13
+104680,Bruno Rosa,1487.12
+108725,Sid Ali Akkal,1487.11
+103956,Stefan Wauters,1487.1
+108966,Igor Chaldounov,1487.09
+103112,Ruben Fernandez,1487.09
+108722,Demetrios Leontis,1487.09
+102332,Adolf Musil,1487.07
+200525,Abdulrahman Alawadhi,1487.07
+132566,Dmitrii Baskov,1487.07
+105261,Roberto Maytin,1487.06
+101650,Shane Barr,1487.06
+108899,Davin Russell,1487.04
+108887,Wael Zeidan,1487.03
+102817,Edwin Kempes,1487.03
+108788,Jose Perdomo,1487.03
+108665,Alexandru Andronachi,1487.02
+108654,Tyler Mayers,1487.02
+108955,Elvis Henry,1487.02
+106941,Eno Polo,1487.01
+108723,Alexander Tavkhelidze,1487.0
+108726,Dominic Pagon,1487.0
+102805,Matthew Breen,1487.0
+211573,Lucky Candra Kurniawan,1487.0
+108830,Philippe Lacombe,1487.0
+108906,Aziz Avganov,1486.99
+209873,Eric Jr. Olivarez,1486.98
+108798,Victor Trotsko,1486.98
+126526,Soren Hess Olesen,1486.98
+108759,Sami Ghorbel,1486.98
+134507,Tom Diederich,1486.96
+106906,Dusan Prchlik,1486.96
+108673,Leroy Tujeehut,1486.95
+104192,Marco Crugnola,1486.95
+105521,Juan Sebastian Vivanco,1486.95
+108774,Marco Aurelio Nunez,1486.95
+102256,Nick Weal,1486.93
+104385,Lars Poerschke,1486.92
+202130,Emil Reinberg,1486.92
+108642,Hayk Hakobyan,1486.91
+108891,Jose Antonio Velazquez,1486.91
+205695,Ching Lam,1486.9
+209259,Arthur Fery,1486.89
+210107,Bor Artnak,1486.89
+110754,David Vega Hernandez,1486.86
+108897,Inam Gul,1486.86
+101765,Tomas Anzari,1486.86
+108615,Genaro Deleon,1486.86
+105585,Ze Zhang,1486.85
+104283,Minh Quan Do,1486.85
+105941,Felipe Rios,1486.84
+108900,Thomas Haug,1486.83
+106292,Hernan Casanova,1486.83
+101642,Bart Wuyts,1486.83
+108753,Othman Al Anazi,1486.82
+105294,Dennis Lajola,1486.82
+108636,Lays Salim,1486.82
+200619,Sebastian Arcila,1486.8
+103516,Nathan Healey,1486.8
+102865,Doug Bohaboy,1486.8
+212866,Marcos Lee Chan Baratau,1486.8
+101992,Pietro Angelini,1486.78
+208361,Gustavo Heide,1486.77
+102891,Rodolfo Varela,1486.76
+105245,Fabiano De Paula,1486.76
+101027,Jaroslav Bulant,1486.75
+104775,Adam Kellner,1486.72
+104286,Vishal Punna,1486.72
+104942,Roman Recarte,1486.71
+101994,Remus Farcas,1486.71
+102210,Rene Hanak,1486.7
+108902,Gwinyai Chingoka,1486.7
+102111,Diego Del Rio,1486.7
+105960,Evan King,1486.69
+108775,Aymeric Mara,1486.68
+104416,Tiago Godinho,1486.67
+104456,Colin Ebelthite,1486.64
+108892,Nejc Podkrajsek,1486.64
+101600,Daniel Courcol,1486.64
+121971,Duilio Vallebuona,1486.63
+108981,Luis Javier Cuellar Contreras,1486.63
+106180,Spencer Newman,1486.61
+108984,Henry So,1486.6
+103342,Miha Gregorc,1486.6
+104781,Yuichi Ito,1486.59
+101149,Morten Christensen,1486.59
+108936,Oskar Saarne,1486.59
+144927,Siddharth Vishwakarma,1486.58
+108801,Jorge Catala,1486.56
+104679,Jamie Murray,1486.56
+105401,Matteo Trevisan,1486.56
+200271,Egor Matvievici,1486.55
+108616,Walter Barahona,1486.55
+121366,Abdulhamid Mubarak,1486.55
+102015,Tomislav Prpic,1486.54
+106238,Andres Artunedo Martinavarro,1486.53
+209872,Thehan Sanjaya Wijemanne,1486.53
+124023,Hei Yin Andrew Li,1486.52
+108678,Eddy Gonzalez Gonzalez,1486.52
+108694,Jason Engelhardt,1486.5
+108611,Victor Ribas,1486.5
+108840,Alex Zakharia,1486.5
+108773,Julius Gotovskis,1486.5
+108671,Sofiane Rais Ali,1486.5
+108745,Gino Meeuwsen,1486.5
+102365,Donny Susetyo,1486.5
+108676,Joel Allen,1486.5
+108613,Davit Babayan,1486.5
+105003,Wan Gao,1486.5
+108700,Revaz Osadze,1486.5
+144777,Constantinos Ioannides,1486.5
+108638,Yazan Al Kasim,1486.5
+102922,Tomas Catar,1486.5
+108857,Stewart Doyle,1486.5
+108669,Mohammed Mahmoudi,1486.5
+101242,Brad Pearce,1486.5
+108771,Romain Radwan,1486.5
+108951,Leonardo Ramirez,1486.5
+206199,Kevin Cheruiyot,1486.5
+108297,Stephane Andriolo,1486.5
+121648,Tunde Segodo,1486.5
+108643,Samuel Fumi,1486.5
+108880,Sanjeev Tikaram,1486.5
+202246,Nikoloz Davlianidze,1486.5
+101126,Chris Pridham,1486.5
+108620,Adel Al Shatti,1486.5
+104208,Damian Patriarca,1486.5
+108787,Carlos Taborga,1486.5
+108750,Adrian Forberg Skogeng,1486.5
+207826,Siim Troost,1486.5
+104613,Candy Idoko,1486.5
+108777,Jae Min Seol,1486.5
+208317,Roey Tabet,1486.5
+108670,Noujeim Hakimi,1486.5
+126328,Gabriel Donev,1486.5
+108831,Michael Walker,1486.5
+212722,Kwok Shun Dasson Chan,1486.5
+105621,Min Kyu Song,1486.5
+149284,Jose  Flores,1486.5
+108807,Juan Francisco Barragan,1486.5
+212203,Luca Preda,1486.5
+200401,Amir Hossein Badi,1486.5
+206642,Yassir Kilani,1486.5
+206000,Michel Saade,1486.5
+101360,Mark Keil,1486.5
+104531,Sergio Ramirez,1486.5
+122236,Roman Hassanov,1486.5
+108716,Amaury Gomez,1486.5
+106333,Julien Cagnina,1486.5
+108895,Mohammed Fawzy,1486.5
+108851,Iman Nilipour,1486.5
+108934,Thomas Drouet,1486.5
+200483,Peter August Anker,1486.5
+212040,Daniel Azar,1486.5
+108937,Mikk Irdoja,1486.5
+212719,Matavao Fanguna,1486.5
+108943,Augusto Ricciardi Castelli,1486.5
+107870,Nortay Dowuona,1486.5
+208206,Walid Ahouda,1486.5
+103987,Alessandro Camarco,1486.5
+108884,Yuan Xiong Hui,1486.5
+101928,Jorge Cordova,1486.5
+134854,Irakli Metreveli,1486.5
+106396,Cheng Yu Yu,1486.5
+123773,Giorgi Javakhishvili,1486.5
+207788,Thanapet Chanta,1486.5
+108963,Mohammed Faizal Bin Othman,1486.5
+108954,Carlos Alvarez,1486.5
+207971,Xavier Lawrence,1486.5
+108586,Augusto Sanabria,1486.5
+207479,Soufiane El Mesbahi,1486.5
+108965,Muhd Ashaari Bin Zinal Abidin,1486.5
+210382,Maximus Jones,1486.5
+103215,Andre Lopes,1486.5
+207400,Mark Chigaazira,1486.5
+107263,Jacques Radoux,1486.49
+122261,Marek Marksoo,1486.48
+102819,Ricardo Omana,1486.48
+123814,Markus Kerner,1486.46
+101502,Torben Theine,1486.46
+212970,Jack Cheng,1486.45
+108622,Samir Saadeldin,1486.45
+108633,Juan Carlos Gonzalez,1486.45
+104857,Robert Farah,1486.44
+105963,Arthur De Greef,1486.44
+103467,Victor Bruthans,1486.44
+103334,Ronaldo Carvalho,1486.44
+108707,Cesar Escobar Serrano,1486.44
+103882,Adrians Zguns,1486.44
+108987,Rihards Emulins,1486.44
+108913,Frederick Sundsten,1486.43
+105419,Patricio Alvarado,1486.42
+103705,Sergei Samoseiko,1486.42
+207934,Philip Hjorth,1486.42
+103649,Esat Tanik,1486.41
+103497,Artem Derepasko,1486.41
+100857,Sergio Casal,1486.41
+108630,Jamal Darmadi,1486.41
+101917,Grant Stafford,1486.4
+207132,Ki Lung Ng,1486.39
+122635,Alexander Merino,1486.38
+101418,Herve Grenier,1486.38
+108639,Maxime Koffi,1486.38
+105479,Alejandro Mendoza,1486.37
+103363,Diego Ayala,1486.37
+108714,Christian Saravia,1486.35
+111192,Lucas Miedler,1486.35
+104975,Evgeny Kirillov,1486.33
+200550,Vladyslav Orlov,1486.32
+108861,Goran Popov,1486.3
+104971,Blake Strode,1486.29
+100855,Scott Davis,1486.28
+103653,Jasper Smit,1486.27
+108938,Charles Irie,1486.26
+102263,Yong Il Yoon,1486.25
+210053,Luka Mikrut,1486.25
+138431,Darko Bojanovic,1486.24
+125783,Magloire Yakpa,1486.24
+144896,Hao Sheng Koay,1486.24
+103435,Massimo Dellacqua,1486.24
+110596,Fred Simonsson,1486.24
+103719,Ruben Torres,1486.24
+208118,Eliot Spizzirri,1486.22
+202300,Phuong Van Nguyen,1486.17
+104667,Philipp Oswald,1486.16
+206889,Clement Chidekh,1486.14
+108888,Ee Wei Tan,1486.12
+101406,Wojtek Kowalski,1486.11
+108738,Claudio Dias Conduto,1486.11
+108907,Piero Demichelli,1486.1
+145003,Lucas Andriamasilalao,1486.09
+108758,Kossi Loglo,1486.07
+210025,Branko Djuric,1486.05
+108935,Marius Tangen,1486.04
+100947,Doug Burke,1486.04
+102203,Jonathan Leach,1486.03
+101699,Alois Beust,1486.03
+108590,Mohammed Nazreen Fuzi Nasruddin,1486.03
+108969,Antoine Breikeh,1486.02
+108229,Sebastien Hette,1486.02
+101231,Ryan Blake,1486.01
+207972,Minjong Park,1486.01
+144774,William Kirkman,1486.01
+101983,Andrew Kratzmann,1486.0
+108608,Marwan Zewar,1486.0
+103491,Mads Gottlieb,1486.0
+207976,Lluis Miralles,1485.99
+200368,Jack Mingjie Lin,1485.99
+108769,Johann Coles,1485.99
+102316,Jong Woong Yoon,1485.99
+104888,Martin Rmus,1485.99
+123315,Nicholas Campbell,1485.98
+102588,Lars Rehmann,1485.97
+145022,Nour Nehme,1485.97
+102889,Hee Sung Chung,1485.97
+210249,Gillian Osmont,1485.97
+102416,Reed Cordish,1485.96
+102373,Toshiaki Sakai,1485.96
+101375,Brian Devening,1485.96
+127195,Hamza Karmoussi,1485.96
+106199,Darius Florin Bragusi,1485.94
+108871,Kim Huat Khoo,1485.94
+102042,Brandon Coupe,1485.94
+103621,Igor Levine,1485.94
+200583,Delmas Ntcha,1485.94
+101973,Viktor Nagy,1485.94
+104106,Ludovic Walter,1485.93
+101479,Tj Middleton,1485.93
+120270,Edgars Manusis,1485.93
+102885,Vishal Uppal,1485.93
+102769,Andres Schneiter,1485.91
+103994,Philip Riise Hansen,1485.9
+101512,Trevor Kronemann,1485.89
+108856,Mark Farren,1485.88
+102929,Ryan Wolters,1485.88
+104334,Alberto Brizzi,1485.87
+105634,Viktor Galovic,1485.87
+208122,Thabo Ncube,1485.86
+103659,Wei Jen Cheng,1485.85
+105442,Sebastien Vidal,1485.81
+105819,Guido Andreozzi,1485.81
+105427,Milos Sekulic,1485.8
+108996,Mahmoud Nader Al Baloushi,1485.8
+102406,Thomas Dupre,1485.8
+101274,Udo Riglewski,1485.79
+207176,Muhammad Althaf Dhaifullah,1485.76
+103317,Gabor Jaross,1485.75
+101531,Mario Visconti,1485.74
+144841,Christian Sigsgaard,1485.74
+134087,Johannes Ingildsen,1485.74
+104478,Hyun Woo Nam,1485.73
+103822,Scott Lipsky,1485.7
+111444,Karim Hossam,1485.68
+202316,Dac Tien Nguyen,1485.68
+101668,Peter Nyborg,1485.66
+104438,Oscar Rodriguez Sanchez,1485.66
+103630,Martijn Van Haasteren,1485.65
+108967,Vitaliy Pavlov,1485.61
+108756,Goudjo Gbedey,1485.61
+144932,Kristjan Tamm,1485.6
+103704,Vladimir Obradovic,1485.59
+108710,Shendrit Deari,1485.59
+211768,Manas Dhamne,1485.58
+206768,Rafael Eduardo Gonzalez Retana,1485.57
+102422,Michael Hill,1485.56
+102273,David Salvador Estepa,1485.56
+104251,Ti Chen,1485.55
+101617,Dennis Schmid,1485.54
+108971,Georgio Bedran,1485.54
+200247,Alexandar Lazarov,1485.5
+108813,Rafael Goscinny,1485.49
+106782,Colin Grant,1485.49
+103546,Patricio Arquez,1485.48
+108709,Dario Acosta,1485.48
+108893,Tarek Ben Soltane,1485.47
+103647,Jun Kato,1485.47
+101317,John Sullivan,1485.47
+103825,Zsolt Tatar,1485.46
+122513,Andrei Soltoianu,1485.45
+103843,Marco Chiudinelli,1485.45
+108731,Roland Theisen,1485.45
+108635,Juan Pablo Barboza,1485.43
+101961,Martin Stringari,1485.42
+103711,Jaroslav Levinsky,1485.41
+108799,Jorge Tejada,1485.4
+102250,Emanuel Couto,1485.39
+102168,Hector Moretti,1485.37
+103270,Kristian Capalik,1485.36
+108802,David Cardoza,1485.35
+108957,Jorge Villanueva,1485.34
+200572,Nick Hardt,1485.32
+102734,Lior Mor,1485.28
+105589,Gerald Melzer,1485.28
+104156,Sunil Kumar,1485.26
+103037,Andrew Carlson,1485.26
+108698,Slah Mbarek,1485.26
+210202,Rodrigo Pacheco Mendez,1485.25
+106420,Gianluigi Quinzi,1485.23
+108589,Vasuthevan Ortchuan,1485.22
+103076,Justin Oneal,1485.19
+101687,David Dilucia,1485.16
+105048,Alex Clayton,1485.15
+105707,Nicolaas Scholtz,1485.14
+108905,Mansur Yakhyaev,1485.13
+105821,Riccardo Bellotti,1485.1
+104718,Luis Diaz Barriga,1485.09
+102778,Abdul Hamid Makhkamov,1485.08
+106398,Pedro Cachin,1485.08
+100800,Diego Perez,1485.08
+103924,Marc Fornell Mestres,1485.07
+105888,Toni Androic,1485.05
+108908,Mario Alberto Cayo,1485.03
+105120,Andres Molteni,1485.03
+102161,Robert Kroll,1485.0
+108666,Harutyun Sofyan,1484.97
+101316,Juan Rios,1484.97
+101575,Sulistyo Wibowo,1484.96
+105189,Pavel Chekhov,1484.91
+103949,Ivan Cerovic,1484.89
+103402,Peter Clarke,1484.89
+207785,George Loffhagen,1484.88
+102223,Karim Alami,1484.88
+105711,Dino Marcan,1484.83
+103374,Zoltan Boroczky,1484.83
+121411,Moez Echargui,1484.82
+103775,Felipe Parada,1484.78
+108623,Rabi Bouhassoun,1484.78
+103607,Victor Estrella,1484.76
+207129,Yanki Erel,1484.71
+102883,Tom Spinks,1484.71
+105561,Alessandro Giannessi,1484.7
+104693,Dominic Inglot,1484.68
+108727,Tyler Chin,1484.65
+105014,Antal Van Der Duim,1484.64
+102169,Michael Joyce,1484.64
+101234,Patrik Kuhnen,1484.62
+104236,Rouzbeh Kamran,1484.61
+209191,Oleksandr Ovcharenko,1484.61
+102467,Fazaluddin Syed,1484.59
+106034,Yasutaka Uchiyama,1484.55
+103185,Mike Bryan,1484.55
+209403,Faris Zakaryia,1484.54
+200188,Matteo Martineau,1484.53
+208367,Dimitri Badra,1484.52
+105967,Henri Laaksonen,1484.52
+105016,Serguei Tarasevitch,1484.52
+105262,Fernando Romboli,1484.5
+108868,Mariusz Zielinski,1484.49
+108729,Hassan Al Mousa,1484.47
+200095,Nicola Kuhn,1484.47
+103643,Lauri Kiiski,1484.46
+104863,Olivier Sajous,1484.42
+108712,Brandon Burke,1484.41
+108719,Nemanja Kontic,1484.41
+209866,Karlis Ozolins,1484.39
+102669,Noam Behr,1484.34
+104444,Ryan Henry,1484.29
+104181,Victor Ionita,1484.28
+104191,Ismar Gorcic,1484.28
+108684,Mehdi Bouabbane,1484.27
+104349,Rui Machado,1484.26
+104760,Scott Oudsema,1484.26
+100713,John Fitzgerald,1484.22
+126237,Gian Marco Moroni,1484.19
+126681,Dawood Sayed Hashim,1484.16
+108976,George Chantouria,1484.13
+104875,Denes Lukacs,1484.13
+102413,Andy Zingman,1484.09
+105730,Devin Britton,1484.08
+103104,Bjorn Rehnquist,1484.06
+108869,Malcolm Birch,1484.02
+101654,Michael Shyjan,1484.02
+105233,Jeevan Nedunchezhiyan,1484.02
+101436,George Cosac,1484.01
+102537,Melvin Tong,1484.0
+105169,Jean Andersen,1483.98
+102194,Min Kyu Han,1483.97
+104996,Alexander Blom,1483.93
+207415,Daniel Michalski,1483.9
+211902,Henry Searle,1483.87
+105284,Tuna Altuna,1483.87
+103577,Christopher Kas,1483.86
+103097,Trevor Spracklin,1483.86
+102996,Franz Stauder,1483.85
+101814,Colin Beecher,1483.84
+106290,Filip Peliwo,1483.84
+102842,Toby Mitchell,1483.77
+102596,Christian Hill,1483.76
+101424,Brent Haygarth,1483.75
+108626,Antonio Van Grichen,1483.73
+102647,Alberto Brause,1483.73
+209225,Martin Antonio Vergara Del Puerto,1483.68
+103782,Rameez Junaid,1483.65
+108609,Patrick Boza,1483.62
+210136,Mark Lajal,1483.59
+108617,Hussain Al Ashwak,1483.57
+103254,Yves Allegro,1483.51
+101030,Goran Prpic,1483.43
+104692,Alexander Slabinsky,1483.42
+109529,Quang Huy Ngo,1483.41
+108992,Alexei Belov,1483.39
+108980,Luis Delgado,1483.37
+108842,Zulfiqar Ahmed,1483.36
+102284,Filippo Messori,1483.34
+106288,Mathias Bourgue,1483.32
+101938,Bernardo Mota,1483.29
+101844,Heath Denman,1483.29
+126609,Patrik Niklas Salminen,1483.23
+102473,Thomas Schiessling,1483.23
+105278,Alexis Klegou,1483.22
+208043,Ismael Changawa Ruwa Mzai,1483.22
+209907,Viacheslav Bielinskyi,1483.12
+104437,Dekel Valtzer,1483.12
+102864,Frank Moser,1483.09
+110781,Vasilly Kazhera,1483.06
+126102,Nicolae Frunza,1483.06
+102723,Eduardo Medica,1483.0
+202260,Henri Squire,1482.99
+103754,Mark Hilton,1482.95
+103573,Rik De Voest,1482.95
+104115,Marc Kimmich,1482.95
+104070,Jesse Witten,1482.9
+102780,Frederic Niemeyer,1482.89
+149843,Conor Gannon,1482.85
+104820,Erik Chvojka,1482.74
+209871,Amr Elsayed Abdou Ahmed Mohamed,1482.71
+103468,Harsh Mankad,1482.71
+103834,Levar Harper Griffith,1482.67
+104446,Dinko Halachev,1482.61
+102192,Luis Adrian Morejon,1482.6
+104732,Phillip Simmonds,1482.59
+106057,Facundo Mena,1482.56
+104445,Jose Antonio Sanchez De Luna,1482.48
+207587,Martins Rocens,1482.41
+202165,Alberto Lim,1482.37
+104453,Michael Ryderstedt,1482.33
+106252,Joao Pedro Sorgi,1482.29
+103559,David Sherwood,1482.28
+103864,Mohamed Mamoun,1482.26
+123768,Collin Altamirano,1482.24
+102103,Michael Sell,1482.24
+104225,Jan Hajek,1482.19
+102557,Daniel Willman,1482.18
+105471,Cesar Ramirez,1482.17
+102544,Pablo Bianchi,1482.16
+202382,Simen Sunde Bratholm,1482.1
+126204,Gerardo Lopez Villasenor,1482.09
+104856,Min Hyoek Cho,1482.05
+103503,Robin Vik,1482.02
+102912,Igor Tchelychev,1482.01
+104082,Hiroki Kondo,1481.8
+105292,Alejandro Gonzalez,1481.76
+105161,Yann Marti,1481.75
+101810,Asif Ismail,1481.71
+103530,Zack Fleishman,1481.65
+102060,Ignacio Martinez,1481.64
+102119,Chih Jung Chen,1481.62
+104272,Torsten Popp,1481.6
+102013,Blaz Trupej,1481.56
+108956,Jesus Francisco Felix,1481.54
+105098,Alexandre Sidorenko,1481.43
+104592,Ilija Bozoljac,1481.39
+104439,Vadim Davletshin,1481.37
+102323,Regis Lavergne,1481.36
+101662,Selvam Veerasingam,1481.33
+101680,Zeeshan Ali,1481.32
+105101,Blazej Koniusz,1481.31
+105987,Mikhail Biryukov,1481.3
+104501,Xin Yuan Yu,1481.3
+105717,Tzvetan Mihov,1481.28
+108780,Lofo Ramiaramanana,1481.26
+108766,Samir Iftikhar,1481.21
+101097,Rick Leach,1481.19
+101190,Darren Cahill,1481.16
+102925,Justin Gimelstob,1481.04
+103948,Maximilian Abel,1481.01
+104113,Carlos Salamanca,1480.98
+200075,Yshai Oliel,1480.97
+106247,Nik Razborsek,1480.97
+124013,Eduardo Nava,1480.91
+104702,Michael Leong,1480.87
+105587,Tom Kocevar Desman,1480.83
+101630,Clement Ngoran,1480.81
+106816,Daniel Omaboe,1480.73
+105759,Henrik Sillanpaa,1480.72
+104986,Vishnu Vardhan,1480.63
+126627,Johan Nikles,1480.63
+104729,Ivan Nedelko,1480.6
+126177,Strong Kirchheimer,1480.59
+101701,Bing Pan,1480.59
+103061,Jan Boruszewski,1480.58
+101957,Milen Velev,1480.57
+102010,Clinton Marsh,1480.57
+126523,Bernabe Zapata Miralles,1480.53
+102068,Omer Rashid,1480.49
+104140,Dawid Olejniczak,1480.48
+104021,Marco Mirnegg,1480.45
+101608,Tom Kempers,1480.45
+126283,Yunseong Chung,1480.43
+102720,Tomas Zib,1480.4
+100676,Yannick Noah,1480.36
+101685,Markus Naewie,1480.33
+103852,Feliciano Lopez,1480.31
+104812,Scoville Jenkins,1480.29
+101841,Aleksandar Kitinov,1480.23
+103637,Marcelo Amador,1480.23
+102528,Carlos Drada,1480.22
+208071,Oleksii Krutykh,1480.19
+125842,Adam Moundir,1480.19
+103181,Jiri Vanek,1480.13
+111511,Noah Rubin,1480.13
+109734,Skander Mansouri,1480.13
+209890,Mili Poljicak,1480.03
+211451,Gilles Arnaud Bailly,1479.89
+101746,Renzo Furlan,1479.88
+106388,Pak Long Yeung,1479.86
+101638,Sean Karam,1479.83
+200418,Karl Friberg,1479.82
+104882,Blaz Kavcic,1479.81
+102436,Borut Urh,1479.8
+104970,Matteo Viola,1479.75
+210274,Sebastian Dominko,1479.75
+106391,Adrian Bodmer,1479.7
+104311,Leonardo Tavares,1479.67
+102001,German Lopez,1479.64
+101892,Axel Finnberg,1479.62
+104377,Theodoros Angelinos,1479.59
+104945,James Mcgee,1479.58
+106227,Ji Sung Nam,1479.56
+104297,Rogerio Dutra Silva,1479.54
+210696,Alexander Blockx,1479.5
+105515,Jordi Samper Montana,1479.45
+101591,Danny Sapsford,1479.38
+200278,Simon Carr,1479.33
+209976,Dino Prizmic,1479.32
+103936,Todor Enev,1479.26
+105302,Ante Pavic,1479.16
+103726,Jean Christophe Faurel,1479.13
+101953,Kentaro Masuda,1479.0
+104059,Rasmus Norby,1479.0
+103534,Nicolas Devilder,1478.97
+102454,Hyeong Keun Song,1478.97
+104797,Denis Istomin,1478.95
+207277,Illia Biloborodko,1478.94
+105733,Rhyne Williams,1478.92
+103925,Gabriel Moraru,1478.9
+104228,Guillem Burniol,1478.84
+103792,Joji Miyao,1478.83
+104234,Predrag Rusevski,1478.79
+101004,Jim Pugh,1478.75
+200473,Valentin Vacherot,1478.74
+108659,Dannio Yahya,1478.72
+104681,Sebastian Rieschick,1478.57
+102982,Yaoki Ishii,1478.55
+105104,Robin Roshardt,1478.53
+103583,Evghenii Plugariov,1478.53
+200277,Charles Broom,1478.5
+103437,Francesco Piccari,1478.42
+105270,Maxime Teixeira,1478.39
+103969,Roman Borvanov,1478.36
+105551,Anil Yuksel,1478.3
+101688,Geoff Grant,1478.29
+105497,Jose Hernandez,1478.26
+209262,Tristan Schoolkate,1478.21
+102153,German Puentes,1478.2
+103829,Cristian Paiz,1478.19
+122047,Luciano Ramazzini,1478.18
+102963,Robert Lindstedt,1478.15
+103164,Artemi Tchernenko,1478.12
+103672,Ricardo Mello,1478.12
+111578,Stefan Kozlov,1478.0
+102957,Vadim Kutsenko,1477.98
+105001,Mao Xin Gong,1477.97
+108962,Razlan Rawi,1477.96
+105426,Michael Linzer,1477.95
+109054,Daniel Masur,1477.92
+104893,Maxime Authom,1477.91
+101594,Carsten Arriens,1477.9
+103920,Sanchai Ratiwatana,1477.87
+111506,Maxime Hamou,1477.84
+108995,Otakar Jurecka,1477.82
+104951,Aljoscha Thron,1477.78
+102868,Jonathan Printzlau,1477.71
+108804,Diadji Ka,1477.62
+103290,Radim Zitko,1477.5
+108760,Slim Hamza,1477.45
+104802,Fabrice Martin,1477.37
+125803,Daniel Windahl,1477.35
+102777,Larbi Rharnit,1477.34
+108344,Tai Wei Liu,1477.34
+102491,Alex Radulescu,1477.29
+123969,Minhtuan Pham,1477.28
+104035,Bobby Reynolds,1477.28
+110536,Kevin King,1477.27
+105148,Hsin Han Lee,1477.24
+200240,Vit Kopriva,1477.22
+103642,Shan Jiang,1477.16
+104486,Horia Tecau,1477.14
+100284,Jimmy Connors,1477.14
+104778,Andrey Kumantsov,1477.14
+108214,Scott Clark,1477.12
+108743,Rajeev Rajapakse,1477.12
+102654,Steven Downs,1477.03
+104378,Yordan Kanev,1477.02
+108824,Daryl Delicata,1477.01
+105448,Hsien Yin Peng,1476.99
+101602,Jack Waite,1476.98
+103510,Rob Steckley,1476.93
+102377,Reza Nakhai,1476.92
+103441,Nikola Gnjatovic,1476.89
+144940,Mattias Siimar,1476.84
+104850,Jonathan Dasnieres De Veigy,1476.84
+202090,Adrian Andreev,1476.84
+108811,Christophe Boggetti,1476.83
+102735,Cedric Kauffmann,1476.78
+101167,Jaime Cortes,1476.76
+104717,Brendan Evans,1476.71
+104253,Juan Martin Aranguren,1476.7
+105091,Peter Torebko,1476.69
+102983,Henrik Andersson,1476.58
+102090,Ofer Sela,1476.57
+103963,Filip Urban,1476.56
+108929,Sergio Rojas,1476.55
+104179,Bruno Echagaray,1476.54
+101096,Gary Muller,1476.48
+101554,Mark Markov,1476.47
+101333,Mark Ferreira,1476.47
+111806,Fajing Sun,1476.44
+105006,Chu Huan Yi,1476.28
+103019,Evgeni Mikheev,1476.25
+108754,Esam Abdulaal,1476.25
+123828,Jan Choinski,1476.25
+108932,Pfungwa Mahefu,1476.24
+123961,Murkel Alejandro Dellien Velasco,1476.22
+101906,Yasufumi Yamamoto,1476.22
+105286,Greg Jones,1476.15
+121331,Pablo Nunez,1476.12
+108469,Victor Caldarelli,1476.1
+104654,Baris Erguden,1476.09
+108734,Fredrik Ask,1476.09
+121896,Gabor Borsos,1476.05
+110778,Joao Menezes,1476.04
+104479,Sarvar Ikramov,1476.01
+101341,Pablo Albano,1475.95
+108983,Ali Ismaeel,1475.94
+103035,Alessio Di Mauro,1475.93
+102999,Stefano Galvani,1475.81
+207759,Matthew Foster Estwick,1475.79
+101203,Adrian Graimprey,1475.77
+108674,Jerry Joseph,1475.75
+207794,Younes Lalami Laaroussi,1475.72
+103761,Tomas Cakl,1475.71
+123915,Arturs Lazdins,1475.71
+103162,Dejan Petrovic,1475.69
+104067,Goran Tosic,1475.5
+106620,Bertrand Lacombe,1475.5
+102490,Pantelis Moschoutis,1475.47
+208182,Saba Purtseladze,1475.46
+103282,Tiago Sousa,1475.45
+101924,Stefano Pescosolido,1475.44
+103564,Jakub Herm Zahlava,1475.44
+106324,Vaclav Safranek,1475.42
+104269,Fernando Verdasco,1475.41
+101779,Pavel Vizner,1475.4
+126116,Jacob Coenraad De Klerk,1475.37
+102030,Andrew Foster,1475.33
+104325,Johannes Ager,1475.32
+104171,Richard Bloomfield,1475.18
+103483,James Shortall,1475.16
+103523,Rohan Bopanna,1475.15
+104934,Thomas Kromann,1475.15
+124022,Chun Hun Wong,1475.1
+108655,Ivor Grazette,1475.07
+200672,Sergey Fomin,1475.02
+109698,Christoffer Konigsfeldt,1475.02
+102145,Francisco Cabello,1475.01
+111751,Andres Bucaro,1475.0
+104154,Paul Capdeville,1474.99
+200080,Puriwat Chatpatcharoen,1474.97
+101377,Christian Bergstrom,1474.96
+102818,Sergi Duran,1474.84
+104348,Dias Doskarayev,1474.8
+108901,Zibusiso Ncube,1474.8
+108809,Karim Zaher,1474.76
+104230,Daniel Koellerer,1474.75
+101997,Marzio Martelli,1474.75
+108703,Eleftherios Christou,1474.74
+108697,Mahmoud Ezz,1474.73
+108765,Jean Marc Bazanne,1474.7
+103230,Tasuku Iwami,1474.65
+144687,Quinton Vega,1474.65
+103682,Kyu Tae Im,1474.64
+102524,Neville Godwin,1474.64
+108886,Michael John Misa,1474.62
+108629,Rodrigo Gabriel,1474.55
+108596,Ramin Raziyani,1474.54
+108882,Mark Choy,1474.53
+105359,Jason Jung,1474.46
+100870,Christo Van Rensburg,1474.46
+105111,Ivan Endara,1474.45
+102208,Rob Givone,1474.44
+132040,Philip Wilbert Major,1474.39
+108910,Matthew Prentice,1474.34
+103125,Joan Jimenez Guerra,1474.33
+104188,Diego Camacho,1474.33
+105547,Dean Obrien,1474.32
+102655,Jimy Szymanski,1474.26
+105305,Valentin Dimov,1474.24
+104011,Lefteris Alexiou,1474.24
+105402,Peerakiat Siriluethaiwattana,1474.2
+103046,Janne Ojala,1474.19
+101577,Jia Ping Xia,1474.18
+101829,Federico Sanchez,1474.17
+103015,Daniel Melo,1474.14
+108677,Daniel Isaza,1474.14
+126223,Abdulhameed Alshatti,1474.11
+108866,Denis Ivancovas,1474.08
+105601,Cristobal Saavedra Corvalan,1474.07
+108912,Janis Skroderis,1474.05
+108876,El Hadj Diedhiou,1474.05
+100954,Luiz Mattar,1474.05
+108848,Khaled Al Haji,1474.05
+108875,Abou Berthe,1474.05
+108612,Sergei Cuptov,1474.04
+108923,Wahib Maknieh,1474.03
+127326,Ben Patael,1474.03
+100939,Joey Rive,1474.03
+108736,Sebastian Moreno,1474.02
+105798,Tilen Zitnik,1474.01
+108864,Sergei Baranov,1473.98
+102814,Iurie Gorban,1473.96
+102605,Jaka Bozic,1473.96
+111436,Nick Chappell,1473.93
+108587,Kerlin Leon Zamora,1473.92
+105221,Mauricio Doria Medina,1473.87
+108797,Luis Diego Nunez,1473.86
+108653,Troy Stone,1473.76
+101722,Han Cheol Shin,1473.75
+103209,Leonardo Azzaro,1473.71
+104565,Hyun Joon Suk,1473.71
+125573,Michael Massih,1473.7
+144760,Amine Ahouda,1473.69
+105482,Vijayant Malik,1473.69
+103592,Jerome Haehnel,1473.67
+101996,David Mullins,1473.67
+106201,Maxim Dubarenco,1473.65
+103130,Louis Vosloo,1473.62
+111505,Enzo Couacaud,1473.53
+105250,Mehdi Jdi,1473.52
+108859,Jesse Smatt,1473.52
+108921,Mohammed Noor Noordin,1473.52
+108182,Ruben Alvarenga,1473.52
+108986,Gilbert Wong,1473.52
+101946,Milko Petkov,1473.52
+104336,Gvidas Sabeckis,1473.52
+108926,David Kvernadze,1473.52
+104644,Riccardo Ghedin,1473.52
+108881,Ju Min Lam,1473.52
+104988,Vivek Shokeen,1473.51
+102283,Yari Bernardo,1473.49
+108584,Alexander Vasquez,1473.48
+103470,Robert Kendrick,1473.47
+108949,Jose Zunino,1473.47
+107185,Hector Nevares,1473.46
+101477,Chris Bailey,1473.43
+202219,Tomas Vaise,1473.41
+108803,Jean Max Mangones,1473.41
+104028,Goncalo Nicau,1473.4
+207852,Wai Yu Kai,1473.38
+108718,Vicente Elberto Anasta,1473.36
+211326,Gunawan Trismuwantara,1473.3
+209405,Daniel Rincon,1473.29
+200587,Brandon Holt,1473.27
+108870,Chee Yen Chen,1473.24
+101412,Shuzo Matsuoka,1473.22
+103807,Raimonds Sproga,1473.22
+108704,Konstantinos Mikos,1473.21
+118591,Russell Moseley,1473.19
+105145,Jaak Poldma,1473.18
+106246,Robin Kern,1473.16
+126409,Hugo Grenier,1473.12
+108890,Juan Carlos Rebaza Lozano,1473.11
+108834,Tawfiq Moafa,1473.1
+105911,Andrea Collarini,1473.1
+103543,David Marrero,1473.08
+104001,Brian Wilson,1473.07
+102132,Ivan Baron,1473.03
+105180,Daniel Dutra Da Silva,1473.02
+108914,Rachid Baba Aissa,1473.02
+108853,Allan Cooper,1473.02
+102567,George Bastl,1473.01
+108689,Goran Bosalevski,1473.0
+103668,Lazar Magdincev,1473.0
+108827,Mike Amoah,1473.0
+101214,Bryan Shelton,1472.99
+101327,Cyril Suk,1472.98
+209971,Michael Bassem Sobhy,1472.98
+101748,Ivan Keskinov,1472.96
+108835,Manjule Weerakoon,1472.95
+104615,Ranjeet Virali Murugesan,1472.92
+102147,Oliver Fernandez,1472.91
+102246,Fernando Samayoa,1472.9
+103684,Benedikt Dorsch,1472.87
+110686,Finn Tearney,1472.86
+108627,Kevin Jonckheer,1472.85
+103974,Aivaras Balzekas,1472.85
+104914,Ervin Eleskovic,1472.81
+101596,Mohamed Ridaoui,1472.79
+104676,Andreas Beck,1472.78
+108443,Toshitsugu Mori,1472.78
+122548,Edan Leshem,1472.78
+209869,Rodrigo Crespo Piedra,1472.77
+101840,Jacobo Chavez,1472.76
+103238,Jean Claude Scherrer,1472.75
+132482,Liam Caruana,1472.73
+105254,Nikola Mektic,1472.67
+145023,Maxim Bulat,1472.66
+108832,Thorsten Poelzl,1472.62
+212717,Davis Rolis,1472.57
+104603,Andrei Ciumac,1472.49
+108650,Peit Hein Boekel,1472.48
+108733,Jose Medrano,1472.48
+108695,Roman Margoulis,1472.45
+108839,Christopher Lai,1472.44
+101989,Patrik Langvardt,1472.42
+103350,Denis Golovanov,1472.4
+209943,Ilya Snitari,1472.38
+102997,Hermes Gamonal,1472.37
+118053,Ognian Kolev,1472.32
+101926,Andrei Merinov,1472.25
+102002,Davide Scala,1472.24
+101119,Marian Vajda,1472.23
+101593,Chris Garner,1472.22
+106184,Hong Chung,1472.22
+108683,Kenneth Tuilier Curco,1472.21
+104213,Tigran Martirosyan,1472.16
+132932,Franz Luna Lavidalie,1472.15
+108961,Abd Hazli Bin Zainuddin,1472.13
+106090,Daniel Berta,1472.1
+108724,Valentin Rahmine,1472.1
+111795,Filippo Baldi,1472.08
+101671,Dede Suhendar Dinata,1472.08
+144771,Sebastian Quiros,1472.04
+108865,Gitanas Mazonas,1472.03
+209920,Raphael Collignon,1472.03
+102785,Glenn Weiner,1472.02
+108789,Rafa Orantes,1472.02
+108687,Rami Osman,1472.01
+105566,Shahin Khaledan,1472.01
+108796,Rafael Jordan,1471.99
+108816,Isaac Donkor,1471.95
+103525,Ivan Miranda,1471.91
+134886,Sharmal Dissanayake,1471.89
+108660,Fadi Youssef,1471.87
+102961,Nicklas Timfjord,1471.86
+105131,Tim Goransson,1471.76
+144772,Salvador Andres Bolanos,1471.65
+105231,Luka Belic,1471.58
+107382,John Farrington,1471.57
+108873,Maurizio Capello,1471.52
+102235,Tommy Ho,1471.42
+104944,Niels Desein,1471.39
+103080,Paul Hanley,1471.39
+108818,Givi Samkharadze,1471.37
+108883,Kuen Yiep Ho,1471.33
+105703,Jesus Bandres,1471.23
+103937,Irakli Ushangishvili,1471.16
+102239,Francisco Costa,1471.13
+104700,Daniel Vallverdu,1471.1
+108975,Petros Baghdatis,1471.1
+108808,Eugenius Cariovas,1471.09
+108706,Sulaiman Al Rawahi,1471.07
+102207,Jan Weinzierl,1471.06
+102572,Igor Gaudi,1471.02
+101022,Kelly Jones,1470.98
+108662,Lavaughn Munroe,1470.98
+104126,Adam Kennedy,1470.97
+104997,Igor Sijsling,1470.97
+108944,Stanislav Bykov,1470.88
+208293,Gonzalo Bueno,1470.86
+208260,Zachary Svajda,1470.81
+104689,Terence Nugent,1470.78
+103736,Diego Acuna,1470.75
+105528,Alexander Ward,1470.7
+102862,Allen Belobrajdic,1470.68
+106392,Thien Nguyen Hoang,1470.67
+207841,Muhammad Shoaib,1470.64
+134114,Jad Ballout,1470.58
+144775,Linh Giang Trinh,1470.57
+105367,Daniel Alejandro Lopez Cassaccia,1470.54
+104014,Lee Childs,1470.45
+105747,Karim Mohamed Maamoun,1470.4
+108916,Ricardo Gonzalez Diaz,1470.39
+106110,Filip Horansky,1470.37
+102135,Emilio Benfele Alvarez,1470.31
+104512,Ergun Zorlu,1470.26
+103851,Conor Niland,1470.24
+101444,Bonit Wiryawan,1470.12
+103256,Ivan Vajda,1470.07
+212021,Martin Landaluce,1469.98
+106291,Luke Saville,1469.96
+103893,Paolo Lorenzi,1469.94
+108781,Ando Rasolomalala,1469.93
+108993,Abdulla Hajji,1469.81
+102466,Jan Kroslak,1469.79
+105099,Antonio Veic,1469.78
+101929,Joost Winnink,1469.75
+105299,Dzmitry Zhyrmont,1469.65
+102577,Steven Randjelovic,1469.61
+102359,Andrew Richardson,1469.52
+102855,Jack Brasington,1469.52
+105166,Peter Polansky,1469.48
+105906,Kevin Krawietz,1469.47
+101731,Nuno Marques,1469.4
+104842,Salifu Mohammed,1469.37
+106167,Joris De Loore,1469.31
+103385,Paul Baccanello,1469.28
+102984,Martin Garcia,1469.18
+200031,Lucas Catarina,1469.11
+106136,Warit Sornbutnark,1469.08
+102078,Jorge Gonzalez,1469.07
+101441,Martin Sinner,1469.05
+111574,Jc Aragone,1469.0
+144642,Tomas Barrios Vera,1468.97
+101797,Jacco Eltingh,1468.9
+101823,Gerald Mandl,1468.87
+102979,Jeff Coetzee,1468.7
+102083,Nick Gould,1468.7
+103921,Sonchat Ratiwatana,1468.67
+101332,Gilad Bloom,1468.52
+105872,Christian Lindell,1468.38
+103298,Piotr Szczepanik,1468.36
+103520,Pavel Snobel,1468.22
+207738,Brandon Perez,1467.94
+104635,Robert Smeets,1467.75
+126612,Alexander Cozbinov,1467.68
+103429,Peter Luczak,1467.62
+104299,Hiu Tung Yu,1467.56
+209863,Leo Borg,1467.53
+102791,Bobby Kokavec,1467.52
+102790,Yu Zheng,1467.47
+101145,Jonathan Canter,1467.37
+106250,Luis Patino,1467.28
+108939,Rasid Winklaar,1467.27
+105372,Issam Al Tawil,1467.08
+122570,Mubarak Shannan Zayid,1467.04
+103708,Jaroslav Pospisil,1466.91
+108604,Pascal Schaul,1466.73
+101567,Hendrik Jan Davids,1466.7
+102872,James Sekulov,1466.69
+101849,Nicola Bruno,1466.66
+100754,Rafael Avalos Brenes,1466.65
+108602,Alti Vahkal,1466.59
+103403,Takahiro Terachi,1466.57
+102463,Lucas Arnold Ker,1466.49
+106381,Temur Ismailov,1466.48
+101270,Thomas Gollwitzer,1466.48
+106244,Oliver Golding,1466.12
+104216,Maximo Gonzalez,1466.1
+104629,Adrian Menendez Maceiras,1466.06
+104658,Gustavo Ramirez,1466.04
+102520,Olivier Malcor,1465.99
+101868,Dick Norman,1465.82
+103586,Mariusz Fyrstenberg,1465.81
+108594,Johnny Arcilla,1465.79
+101947,Vincenzo Santopadre,1465.75
+106243,Mate Delic,1465.69
+103657,Ivo Klec,1465.52
+106024,Dovydas Sakinis,1465.49
+102554,Diego Moyano,1465.47
+103005,Denis Yakimenko,1465.46
+102458,Jim Thomas,1465.46
+102902,Thomas Blake,1465.43
+210319,Ethan Quinn,1465.38
+108793,Goran Sterijovski,1465.22
+108696,Philippe Grandjean,1465.18
+101120,Karel Novacek,1465.14
+108952,Jose Roberto Velasco,1465.1
+103026,Teo Susnjak,1465.07
+102351,Oscar Martinez,1465.05
+108597,Adelo Abadia,1465.04
+108628,Jhonnatan Medina Alvarez,1465.03
+102047,Pier Gauthier,1465.0
+108931,Enzo Pigola,1464.97
+105450,Mike Urbanija,1464.94
+105579,Kittipong Wachiramanowong,1464.82
+108920,Federico Rodriguez,1464.64
+103281,Ladislav Svarc,1464.64
+200218,Mate Valkusz,1464.61
+105030,Michael Venus,1464.59
+108641,Fredrik Aarum,1464.58
+108898,Christopher Eldon,1464.49
+108849,Rohan De Silva,1464.49
+103082,Markus Hantschk,1464.45
+103240,Kevin Kim,1464.41
+108632,Federico Camacho,1464.3
+104628,Alexander Kudryavtsev,1464.3
+111805,Seong Chan Hong,1464.25
+206600,Zura Tkemaladze,1464.18
+105434,Ruan Roelofse,1464.05
+108812,Jose Baires,1464.04
+103202,Oscar Serrano,1463.92
+104494,Adrian Ungur,1463.9
+102501,Johan Landsberg,1463.81
+105720,Stanislav Vovk,1463.81
+106299,Bar Tzuf Botzer,1463.75
+108909,Jalil Khan,1463.75
+101280,Mikael Stadling,1463.73
+108918,Favel Antonio Freyre Perdomo,1463.71
+103377,Seung Hoon Lee,1463.7
+102770,John Van Lottum,1463.55
+102018,Tamer El Sawy,1463.48
+101866,David Rikl,1463.45
+102756,Eduardo Rincon,1463.43
+105122,Karlis Lejnieks,1463.38
+101612,Roland Burtscher,1463.26
+108690,Ayrton Wibowo,1463.24
+208819,Max Hans Rehberg,1463.17
+105841,Lorenzo Giustino,1463.16
+102279,Gehad El Deeb,1463.02
+102502,Paul Harsanyi,1462.99
+144773,Jose Olivares,1462.94
+108930,Juan Carlos Ramirez,1462.85
+105331,Petru Alexandru Luncanu,1462.85
+202462,Yasitha De Silva,1462.81
+102219,Juan Garat,1462.79
+105559,Jonathan Eysseric,1462.77
+108588,Asim Shafik,1462.67
+105463,Charalampos Kapogiannis,1462.62
+210119,Andrej Nedic,1462.6
+101606,Alberto Mancini,1462.46
+104258,Juan Enrique Crosa,1462.45
+101869,Juan Luis Tati Rascon,1462.43
+101468,Gerard Solves,1462.33
+104752,Dilshod Sharifi,1462.31
+105679,Eduardo Struvay,1462.29
+144747,Courtney John Lock,1462.1
+101106,Peter Lundgren,1462.04
+108625,Mohammed Rajan Sundera Karuppiah,1462.03
+105015,Franko Skugor,1461.98
+103674,Jonathan Igbinovia,1461.98
+101536,Murphy Jensen,1461.93
+145016,Julian Saborio,1461.91
+103427,Yew Ming Si,1461.84
+108634,Rodrigo Vallejo,1461.83
+105662,Tomislav Jotovski,1461.72
+209147,Vilius Gaubas,1461.55
+108661,Dentry Mortimer,1461.52
+104036,Simon Rea,1461.45
+105454,Brydan Klein,1461.4
+101154,Simon Youl,1461.33
+106223,Aleksandre Metreveli,1461.28
+101506,Eoin Collins,1461.24
+103580,Alexander Peya,1461.21
+200618,Adam Hornby,1461.19
+104779,Jamie Baker,1461.18
+101205,Grant Connell,1461.17
+105626,Takanyi Garanganga,1461.12
+102118,Radomir Vasek,1461.07
+102282,Tetsuya Chaen,1461.02
+111576,Sumit Nagal,1461.02
+108657,Alexander Skrypko,1460.98
+102190,Philippe Moggio,1460.86
+101475,Carlos Costa,1460.85
+103169,Oscar Hernandez,1460.83
+108768,Gabriel Flores Ruiz,1460.81
+100772,Kelly Evernden,1460.78
+104464,Abdul Mumin Babalola,1460.7
+200620,Ignacio Garcia,1460.68
+108795,Jean Noel Said,1460.61
+108779,Jacob Rasolondrazana,1460.49
+200611,Elliot Benchetrit,1460.48
+108946,Brett Baudinet,1460.46
+103490,Santiago Ventura,1460.42
+101460,Jose Francisco Altur,1460.38
+108730,Sten Sumberg,1460.32
+102903,Eyal Erlich,1460.31
+105187,Daniel Danilovic,1460.26
+108645,Musaad Al Jazzaf,1460.22
+101284,Lars Anders Wahlgren,1460.16
+108675,Iphton Louis,1460.12
+105194,Nick Lindahl,1460.12
+108790,Nicholas Malcolm,1460.06
+137018,Ayed Zatar,1460.05
+108833,Farah Al Somali,1460.04
+106198,Hugo Dellien,1460.02
+132374,Jesse Flores,1459.92
+101660,Francisco Montana,1459.89
+108828,Emmanuel Udozorh,1459.82
+101407,David Engel,1459.79
+105431,Ariel Behar,1459.76
+108819,Irakli Kunchulia,1459.76
+144949,Menelaos Efstathiou,1459.74
+108711,Christopher Lawson,1459.72
+111459,Arjun Kadhe,1459.65
+105283,Gerard Granollers,1459.65
+106006,Agustin Velotti,1459.37
+102511,Sven Koehler,1459.26
+102348,Hideki Kaneko,1459.22
+105894,Javier Marti,1459.17
+104714,Julian Reister,1459.15
+108814,Konstantinos Effraimoglou,1459.15
+108815,Kojo Atiso,1459.15
+108748,Lukas Mugevicius,1459.05
+101573,Carl Chang,1459.03
+108652,Shane Stone,1459.02
+101432,Dimitri Poliakov,1458.99
+108762,Andres Weisskopf,1458.78
+210262,Jaime Faria,1458.72
+103760,Haluk Akkoyun,1458.63
+104810,Zhe Li,1458.62
+108841,Mubarak Al Tobaishi,1458.62
+117360,Marc Polmans,1458.61
+126120,Nino Serdarusic,1458.53
+103971,Karol Beck,1458.48
+102730,Ivo Heuberger,1458.46
+106072,Alexey Vatutin,1458.42
+108605,Sacha Thoma,1458.41
+210317,James Mccabe,1458.4
+103676,Michael Yani,1458.27
+102231,Alex Calatrava,1458.24
+102310,Seung Bok Baek,1458.22
+106150,Jeson Patrombon,1458.13
+106207,Mate Pavic,1458.04
+103544,Andy Ram,1457.91
+101775,Frederik Fetterlein,1457.9
+104905,Nicolas Barrientos,1457.89
+104569,Lado Chikhladze,1457.86
+108878,Lency Tenai,1457.85
+101276,Horacio De La Pena,1457.78
+102464,Todd Larkham,1457.76
+101940,Rene Busch,1457.75
+108974,Christopher Koutrouzas,1457.74
+103395,Julio Silva,1457.59
+124014,Ernesto Escobedo,1457.59
+103837,Didac Perez,1457.51
+101311,Kent Kinnear,1457.34
+102368,Brian Dunn,1457.32
+101649,Guillermo Perez Roldan,1457.23
+108598,Rolando Ruel,1457.18
+103472,Karim Maamoun,1457.11
+101389,Oren Motevassel,1457.06
+105852,Viktor Filipenko,1456.93
+108785,Anthony Marshall,1456.87
+104027,Pablo Gonzalez,1456.81
+104816,Karan Rastogi,1456.72
+108624,Hazuan Hizan,1456.59
+105827,Laurynas Grigelis,1456.59
+103101,Daouda Ndiaye,1456.54
+102234,Oliver Gross,1456.29
+101124,Paolo Cane,1456.28
+200096,Dragos Nicolae Madaras,1456.26
+101400,Sofronio Palahang,1456.19
+104121,Tobias Summerer,1456.14
+106309,Wisnu Adi Nugroho,1456.12
+126125,Maxime Janvier,1456.06
+101485,Tanakorn Srichaphan,1456.05
+106093,Benjamin Mitchell,1455.98
+102802,Gunther Darkey,1455.97
+202120,Rowland Phillips,1455.58
+101819,Frederic Vitoux,1455.55
+105002,Timothy Neilly,1455.5
+106342,Martins Podzus,1455.49
+102800,Nenad Zimonjic,1455.37
+105831,Marko Djokovic,1455.05
+101893,Patrick Mohr,1454.93
+105009,Elbert Sie,1454.89
+103506,Martin Vassallo Arguello,1454.84
+105229,Philip Bester,1454.82
+101574,Alejandro Aramburu,1454.65
+105781,Andrei Vasilevski,1454.59
+105638,Daniel Cox,1454.54
+102055,Bertrand Madsen,1454.49
+104783,Mikhail Ledovskikh,1454.34
+102444,Scott Barron,1454.08
+101515,Donald Johnson,1453.96
+117361,Akira Santillan,1453.86
+210220,Edas Butvilas,1453.75
+102410,David Caldwell,1453.72
+105155,Pedro Sousa,1453.71
+101492,Sander Groen,1453.67
+102918,Efe Ustundag,1453.54
+102851,Giorgio Galimberti,1453.51
+209406,Abedallah Shelbayh,1453.46
+101439,Javier Sanchez,1453.41
+126340,Viktor Durasovic,1453.22
+102881,David Skoch,1453.22
+103967,Michael Lammer,1453.09
+104182,Sasa Tuksar,1453.06
+106099,Salvatore Caruso,1453.04
+209916,Marko Topo,1452.91
+108373,Thierno Ly,1452.88
+101490,Daniel Orsanic,1452.81
+208485,Kiranpal Pannu,1452.53
+106293,Kimmer Coppejans,1452.49
+102067,Emanuel Rasberger,1452.45
+202378,Ignacio Carou,1452.37
+101473,Jozsef Krocsko,1452.3
+134677,Juan Borba,1452.23
+106325,Jabor Al Mutawa,1452.18
+101101,Richard Ashby,1451.99
+103198,Justin Bower,1451.96
+207182,Emilio Nava,1451.88
+108705,Anis Ghorbel,1451.84
+104550,Ricardo Hocevar,1451.8
+144814,Eero Vasa,1451.79
+207836,Muzammil Murtaza,1451.73
+105757,Sandro Ehrat,1451.7
+108778,Christos Hadjigeorgiou,1451.66
+123921,Calvin Hemery,1451.62
+144776,Christophe Tholl,1451.6
+108985,Ali Ghareeb,1451.46
+102267,Gwinyai Tongoona,1451.41
+124154,Sasi Kumar Mukund,1451.35
+104397,Laurent Recouderc,1451.13
+102165,Srinath Prahlad,1451.1
+103857,Igor Kunitsyn,1451.08
+101781,Robert Angelo,1451.05
+104907,Jose Rubin Statham,1451.05
+200711,Nicolas Mejia,1451.05
+209868,Kaipo Marshall,1451.03
+102304,Grant Doyle,1450.98
+102574,Gabriel Trifu,1450.96
+107310,Jean Nabi,1450.86
+103849,Francesco Aldi,1450.8
+106077,Mike Vermeer,1450.76
+108872,Yang Tat Lim,1450.67
+104909,Sunu Wahyu Trijati,1450.59
+104847,Adrien Bossel,1450.59
+108772,Julius Tverijonas,1450.59
+102650,Roberto Carretero,1450.57
+105394,Ilija Martinoski,1450.48
+104563,Luca Vanni,1450.45
+108940,David Josepa,1450.41
+106100,Micke Kontinen,1450.37
+109257,Ignaci Roca,1450.24
+102354,Jerome Hanquez,1450.24
+105177,Aditya Hari Sasongko,1450.18
+102494,Tomas Behrend,1450.1
+102776,Andrew Ilie,1450.09
+102254,Ouassel Hared,1450.03
+104215,Andrei Gorban,1450.01
+108959,Eldad Campbell,1449.98
+108691,Khalid Al Nabhani,1449.86
+101825,Manuel Tejada,1449.83
+200250,Mehluli Don Ayanda Sibanda,1449.59
+105614,Bradley Klahn,1449.47
+105606,Mohsen Hossein Zade,1449.33
+102696,Guillaume Couillard,1449.33
+103114,Martin Lee,1449.3
+108752,Shehab Shehab,1449.27
+104010,Dieter Kindlmann,1449.21
+101937,Robbie Koenig,1449.16
+108825,Mark Schembri,1449.08
+108858,Jermaine Smith,1448.98
+104063,Mait Kunnap,1448.87
+103535,Olivier Patience,1448.85
+105432,Prajnesh Gunneswaran,1448.8
+102623,Thomas Larsen,1448.77
+102180,Charles Auffray,1448.75
+108592,Pavel Baranov,1448.65
+106368,Ramkumar Ramanathan,1448.65
+102836,Rogier Wassen,1448.61
+110602,Dennis Novak,1448.61
+123997,Joachim Bjerke,1448.42
+126652,Jay Clarke,1448.39
+100757,Anders Jarryd,1448.3
+106035,Isak Arvidsson,1448.3
+144972,Geoffrey Blancaneaux,1448.28
+103131,Michihisa Onoda,1448.28
+102529,Thomas Shimada,1448.14
+200045,Anthony Susanto,1448.11
+102006,Brent Larkham,1448.08
+108977,George Khrikadze,1448.06
+211571,Daniels Tens,1448.05
+101165,Mario Tabares,1448.03
+108792,Ognen Nikolovski,1447.93
+104219,Stephane Bohli,1447.87
+103154,Jaymon Crabb,1447.83
+102938,Alejandro Olivera,1447.77
+106277,Ariez Elyaas Deen Heshaam,1447.68
+105154,Joao Souza,1447.67
+108732,Carlos Martin Navarro Vergara,1447.57
+144854,Rudolfs Mednis,1447.48
+108757,Jean Kome Loglo,1447.45
+121908,Naser Al Obaidly,1447.42
+211570,Cesar Cruz,1447.34
+105239,Daniel Glancy,1447.34
+108879,Lawrence Tere,1447.29
+104851,Gianluca Naso,1447.08
+102076,Mark Merklein,1446.96
+102455,Lorenzo Manta,1446.69
+108978,Nick Van Rosberg,1446.51
+108692,Mohammed Al Nabhani,1446.47
+125572,Hillel Rousseau,1446.44
+102019,Dirk Dier,1446.43
+103872,Dimitar Grabuloski,1446.22
+208134,Luca Nardi,1446.01
+101582,Gilbert Schaller,1445.93
+102085,Sasa Hirszon,1445.83
+102668,Tapio Nurminen,1445.72
+101171,Armando Perez,1445.7
+105586,Alexandar Lazov,1445.64
+103408,Brian Vahaly,1445.32
+101955,Luis Herrera,1444.75
+101561,Nicklas Utgren,1444.44
+102667,Satoshi Iwabuchi,1444.44
+103109,Talal Ouahabi,1444.33
+108972,Ibrahim Abou Chahine,1444.2
+103700,Juan Pablo Guzman,1444.02
+103216,Clemens Trimmel,1443.85
+108761,Mikelis Libietis,1443.74
+103165,Gorka Fraile,1443.67
+102585,Sebastian Prieto,1443.63
+104261,Peng Sun,1443.61
+105493,Tomislav Brkic,1443.58
+101681,Chris Wilkinson,1443.5
+103102,John Hui,1443.24
+102600,David Miketa,1443.19
+102215,Joshua Eagle,1443.18
+108651,Sandor Martinez Breijo,1442.96
+101871,Alexander Reichel,1442.94
+101534,Libor Nemecek,1442.91
+101543,Jeff Tarango,1442.85
+126964,Vitaliy Sachko,1442.75
+104117,Giovanni Lapentti,1442.65
+103894,Phillip King,1442.49
+105349,Harri Heliovaara,1442.39
+101862,Maurice Ruah,1442.38
+102472,Marcello Craca,1442.34
+101459,Tomas Nydahl,1442.31
+108896,Shahzad Khan,1442.23
+102204,Nebojsa Djordjevic,1442.23
+101590,Eui Jong Chang,1442.23
+108751,Bader Mohammed Almuqail,1442.2
+102497,Mashiska Washington,1442.09
+104800,Mauricio Estivariz,1441.88
+103899,Stian Boretti,1441.69
+108927,Edgar Hernandez Perez,1441.63
+200443,Adam Walton,1441.46
+101719,Frederic Fontang,1440.99
+103675,Diego Junqueira,1440.98
+101071,Tom Nijssen,1440.92
+103715,Kirill Ivanov Smolensky,1440.88
+108721,Philippos Tsangaridis,1440.84
+101285,Thierry Champion,1440.8
+108821,Vladimir Margalitadze,1440.63
+111515,Thai Son Kwiatkowski,1440.56
+101675,Martin Rodriguez,1440.4
+102629,Oscar Burrieza,1440.34
+102113,Daniele Musa,1440.1
+103976,Juan Pablo Brzezicki,1439.92
+101016,Marcos Aurelio Gorriz,1439.76
+104736,Farrukh Dustov,1439.75
+106106,George Tsivadze,1439.72
+102382,Julian Knowle,1439.7
+102496,Scott Willinsky,1439.51
+133018,Michail Pervolarakis,1439.44
+108782,Mahammad Abid,1439.31
+101802,Ramayah Ramachandran,1439.06
+108663,Bjorn Munroe,1439.03
+102269,Jeff Salzenstein,1438.71
+108610,Tsolak Gevorgyan,1438.67
+111454,Li Tu,1438.63
+101686,Franco Davin,1438.63
+102630,Slimane Saoudi,1438.6
+126689,Tadas Babelis,1438.57
+103397,Alexandre Simoni,1438.33
+102694,Lars Burgsmuller,1438.2
+208055,Ajeet Rai,1438.03
+104308,Michal Przysiezny,1437.82
+101855,Emmanuel Heussner,1437.66
+101123,Alexander Mronz,1437.29
+103228,Marcos Daniel,1437.18
+104873,Aleksandr Nedovyesov,1437.12
+104503,Guillermo Hormazabal,1437.06
+104789,Sherif Sabry,1437.0
+101138,Pat Cash,1436.8
+101298,Jonas Svensson,1436.63
+101576,Ryuso Tsujino,1436.6
+108699,Nodar Itonishvili,1436.44
+101902,Stephane Huet,1436.39
+103248,Harel Levy,1436.21
+117365,Petros Chrysochos,1436.21
+106232,Roberto Cid,1435.98
+102375,Dinu Pescariu,1435.96
+103817,Yu Jr Wang,1435.82
+101265,Patrick McEnroe,1435.72
+108599,Ivo Lagzdins,1435.64
+102154,Marcos Ondruska,1435.33
+103914,Omar Awadhy,1435.27
+105467,Jordi Munoz Abreu,1435.26
+101354,Andrew Sznajder,1435.07
+102033,Abdelhak Hameurlaine,1434.82
+105943,Federico Gaio,1434.46
+101430,Sergio Cortes,1434.45
+104454,Murad Inoyatov,1434.34
+102687,Herbert Wiltschnig,1434.27
+108735,Rares Cuzdriorean,1434.24
+104004,Filip Prpic,1434.22
+105094,Paris Gemouchidis,1434.16
+104056,Roko Karanusic,1434.11
+101416,Joao Cunha Silva,1434.08
+103318,Zeljko Krajan,1434.0
+103877,Mike Scheidweiler,1433.99
+102536,James Greenhalgh,1433.93
+105909,Sam Barry,1433.88
+103709,Kristian Pless,1433.83
+108621,Seyed Akbar Taheri Rahaghi,1433.38
+102538,Tuomas Ketola,1433.13
+103118,Ion Moldovan,1433.02
+104003,Victor Crivoi,1432.86
+101730,Piet Norval,1432.8
+104831,Bartolome Salva Vidal,1432.61
+106005,Constant Lestienne,1432.58
+102548,Juan Antonio Marin,1432.55
+101481,Omar Camporese,1432.52
+102685,Sebastien Graeff,1432.35
+108646,Joseph Victorino,1432.25
+106362,Laurent Lokoli,1431.56
+102595,Helge Koll,1431.17
+107098,Gilles Kremer,1431.11
+104095,David Guez,1430.91
+101133,Patrick Baur,1430.81
+101865,Albert Chang,1430.7
+102812,Jicham Zaatini,1430.57
+108800,Alexander Lehnhoff,1430.23
+108958,Damion Johnson,1429.97
+104619,Jesse Huta Galung,1429.95
+101549,Rodolphe Gilbert,1429.83
+102821,Cecil Mamiit,1429.67
+103999,Thiago Alves,1429.46
+101821,Peter Tramacchi,1429.42
+105159,Vaja Uzakov,1429.4
+108749,Sergis Kyratzis,1429.29
+104864,Alex Kuznetsov,1429.26
+105085,Artem Smirnov,1429.2
+103029,Mehdi Tahiri,1428.83
+105853,Tigre Hank,1428.56
+103373,Sergio Roitman,1428.55
+106412,Lucas Gomez,1427.95
+101353,Lionel Barthez,1427.85
+111781,Janis Podzus,1427.64
+100936,Henri Leconte,1427.28
+101939,Erhan Oral,1427.22
+101312,Robbie Weiss,1427.15
+101790,Elmar Gerth,1426.74
+101391,Carl Uwe Steeb,1426.52
+108591,Adam Jaya,1426.39
+104770,Martin Fischer,1426.39
+101066,Richard Matuszewski,1426.37
+103875,Anoosha Shahgholi,1425.85
+100763,Brad Gilbert,1425.84
+103926,Daniel Munoz de la Nava,1425.77
+104505,Konstantin Kravchuk,1425.73
+108925,Ahmad Rabeea Muhammad,1425.52
+107481,Karl Hale,1425.37
+104463,Dmitriy Makeyev,1425.18
+122109,Sanjar Fayziev,1425.14
+105332,Benoit Paire,1424.94
+104000,Andrey Dernovskiy,1423.93
+103294,Christophe Rochus,1423.51
+108614,Raoul Behr,1423.12
+101920,Jamie Morgan,1423.09
+104469,Erling Tveit,1423.0
+102831,Jacobo Diaz,1422.99
+103297,Alex Kim,1422.94
+104270,Marvin Rolle,1422.63
+105731,Steven Diez,1422.16
+102198,Paul Kilderry,1421.92
+102966,Fredrik Jonsson,1421.86
+101362,Stephane Simian,1421.69
+101809,Nicolas Pereira,1421.47
+108820,Ganiyu Adenekan,1421.45
+103820,Alan Mackin,1421.36
+104868,James Ward,1421.01
+103305,Daniel Elsner,1420.24
+101063,Jordi Arrese,1420.2
+102050,Marco Meneschincheri,1420.07
+101381,Aaron Krickstein,1420.07
+104768,Juho Paukku,1419.63
+108836,Jayendra Wijeyesekera,1419.5
+102362,Amro Ghoneim,1419.33
+105029,Sergey Betov,1419.04
+105156,Federico Zeballos,1418.99
+101263,Luke Jensen,1418.79
+111167,Ugo Nastasi,1418.42
+102965,Jamie Delgado,1418.16
+102457,Miles Maclagan,1417.82
+101783,Mark Petchey,1417.74
+101816,Steve Campbell,1417.64
+103007,Mounir El Aarej,1417.56
+208278,Shintaro Mochizuki,1417.46
+104949,Weerapat Doakmaiklee,1417.4
+105137,Pere Riba,1417.35
+101249,Andrei Olhovskiy,1417.2
+104656,Haydn Lewis,1417.18
+202358,Chun Hsin Tseng,1416.68
+101780,Alejo Mancisidor,1416.37
+103693,Thierry Ascione,1416.2
+102069,Andrei Rybalko,1416.05
+108786,Seanon Williams,1415.87
+101745,Roberto Jabali,1415.15
+101233,Alex Antonitsch,1414.98
+107552,Laurent Bram,1414.92
+102285,Nasser Ghanim Al Khulaifi,1414.71
+102443,Barry Cowan,1414.68
+102743,Ben Ellwood,1414.64
+101767,Lars Jonsson,1414.56
+103891,Alexandros Jakupovic,1414.43
+101750,Cristiano Caratti,1413.86
+101945,Thierry Guardiola,1413.47
+100923,Wally Masur,1413.12
+101026,Jim Grabb,1412.45
+101417,Mario Rincon,1412.38
+105812,David Agung Susanto,1412.3
+103201,Adrian Garcia,1412.23
+103860,Timo Nieminen,1412.14
+108747,Dineshkanthan Thangarajah,1412.09
+101086,Ronald Agenor,1411.9
+101977,Patricio Arnold,1411.4
+111790,Brayden Schnur,1410.32
+102088,Joern Renzenbrink,1409.97
+105441,John Patrick Smith,1409.16
+104807,Mehdi Ziadi,1409.06
+108945,Juan Sebastian Langton,1408.86
+101365,Paul Wekesa,1408.69
+101636,Wade Mcguire,1408.07
+102243,Marcelo Charpentier,1406.98
+104580,Haithem Abid,1406.64
+104372,Alex Bogdanovic,1406.44
+101710,Martin Blackman,1404.88
+105899,Martin Cuevas,1404.72
+102921,Ota Fukarek,1404.49
+106105,Guilherme Clezar,1404.03
+101597,Louis Gloria,1403.18
+101682,David Adams,1403.03
+103105,Ruben Ramirez Hidalgo,1402.26
+103009,Razvan Sabau,1402.19
+105738,Tsung Hua Yang,1401.57
+102339,Kris Goossens,1401.32
+103568,Valentin Sanon,1400.96
+106032,Facundo Arguello,1400.62
+101511,Horst Skoff,1398.84
+102652,Christian Vinck,1398.43
+101552,Xavier Daufresne,1397.69
+102950,Fernando Vicente,1397.61
+102220,Patrik Fredriksson,1397.31
+104623,Josh Goodall,1396.87
+101142,Emilio Sanchez,1396.6
+108982,Yasir Khan,1396.22
+100837,Jeremy Bates,1395.62
+101641,Jose Luis Noriega,1395.38
+100944,Mikael Pernfors,1395.28
+104323,Photos Kallias,1394.44
+102772,Yu Zhang,1393.87
+102405,Mahesh Bhupathi,1393.22
+101772,Andrei Cherkasov,1390.72
+108763,Alberto Emmanuel Alvarado Larin,1390.57
+102214,Oscar Ortiz,1390.56
+102381,Werner Eschauer,1390.0
+108740,Cyril Jacobe,1390.0
+102139,Eyal Ran,1388.53
+101826,Alex Lopez Moron,1387.46
+102971,Christophe Bosio,1387.2
+101789,Steve Bryan,1386.91
+117356,Cem Ilkel,1385.23
+103835,Filippo Volandri,1383.14
+103413,Genius Chidzikwe,1382.14
+101956,Mark Knowles,1380.85
+101482,Markus Zoecke,1380.1
+102956,Sultan Khalfan,1379.03
+101969,Orlin Stanoytchev,1378.13
+100997,Roger Smith,1376.84
+101761,Jaime Oncins,1374.25
+103799,Eric Prodon,1373.53
+101224,Kenny Thorne,1372.49
+102795,Scott Humphries,1372.39
+102023,Petr Luxa,1360.21
+102031,Sandor Noszaly,1354.39
+101398,Neil Borwick,1350.98
+108618,Karim Alayli,1344.95
+102832,Andrian Raturandang,1341.79
